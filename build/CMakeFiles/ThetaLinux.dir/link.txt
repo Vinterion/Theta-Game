@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -DNDEBUG -Wall CMakeFiles/ThetaLinux.dir/main.cpp.o CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o -o ThetaLinux  -Wl,-rpath,/home/vint/projects/theta-linux/src/build/_deps/sfml-build/lib: _deps/sfml-build/lib/libsfml-graphics.so.2.5.1 _deps/sfml-build/lib/libsfml-window.so.2.5.1 _deps/sfml-build/lib/libsfml-system.so.2.5.1 
