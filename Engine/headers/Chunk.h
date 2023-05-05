@@ -148,7 +148,8 @@ namespace theta {
 		sf::Vector2f _start;
 		uint8_t _number_of_columns, _number_of_rows;
 	public:
-		Chunk_Menager(const sf::Vector2f& start, const uint8_t number_of_columns, const uint8_t number_of_rows) : _start{ start }, _number_of_columns{ number_of_columns }, _number_of_rows{ number_of_rows } {
+		Chunk_Menager(const sf::Vector2f& start, const uint8_t number_of_columns, const uint8_t number_of_rows) :
+		  _start{ start }, _number_of_columns{ number_of_columns }, _number_of_rows{ number_of_rows } {
 			for (uint8_t i = 0; i < number_of_columns; ++i) {
 				for (uint8_t j = 0; j < number_of_rows; ++j) {
 					Chunk ctmp(start + sf::Vector2f{ 1024.f * i,1024.f * j });

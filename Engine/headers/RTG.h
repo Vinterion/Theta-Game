@@ -1,7 +1,9 @@
+
 #ifndef __RTG_H__
 #define __RTG_H__
 
 #include"Chunk.h"
+#include"Structure.h"
 #include<random>
 
 namespace theta {
@@ -10,35 +12,6 @@ namespace theta {
 		int32_t max_height{256};
 	};
 
-	//https://github.com/OneLoneCoder/Javidx9/blob/master/ConsoleGameEngine/SmallerProjects/OneLoneCoder_PerlinNoise.cpp
-	// std::vector<float> PerlinNoise1D(const std::vector<float>& seed)
-	// {
-	// 	auto outpout = seed;
-	// 	for (size_t x = 0; x < seed.size();++x)
-	// 	{
-	// 		float fNoise = 0.0f;
-	// 		float fScaleAcc = 0.0f;
-	// 		float fScale = 1.0f;
-
-	// 		for (int o = 0; o < 8;++o)
-	// 		{
-	// 			int nPitch = static_cast<int>(seed.size()) >> o;
-	// 			int nSample1 = (x / nPitch) * nPitch;
-	// 			int nSample2 = (nSample1 + nPitch) % static_cast<int>(seed.size());
-
-	// 			float fBlend = (float)(x - nSample1) / (float)nPitch;
-
-	// 			float fSample = (1.0f - fBlend) * seed[nSample1] + fBlend * seed[nSample2];
-
-	// 			fScaleAcc += fScale;
-	// 			fNoise += fSample * fScale;
-	// 			fScale = fScale / 2.f;
-	// 		}
-
-	// 		outpout[x] = fNoise / fScaleAcc;
-	// 	}
-	// 	return outpout;
-	// }
 	struct RTG {
 	  
 	        enum class biomes{plain,desert,snow};
@@ -115,23 +88,30 @@ namespace theta {
 			}
 			//Creating Terrain
 			for(size_t i = 0; i < height_date.size();++i){
+			  static float cur_pos = Chunk_menager.get_start_point().x;
 			  float local_max_height = 640.f - 32.f*height_date[i];
 			  for (auto j = min_height; j > local_max_height; j -= 32.f) {
 			    int8_t block_id = 2;
 			    float dirt_layout_height = 32.f*(3+num_rand_engine(rengine)%4);
-			    if(j - local_max_height == 32.f && biomes_date[i] == biomes::plain) block_id = 0;
+			    if(j - local_max_height == 32.f && biomes_date[i] == biomes::plain){
+			      block_id = 0;
+			      if(num_rand_engine(rengine) == 41) Tree::generate(sf::Vector2f{cur_pos,j-32.f},
+										Txt_menager,
+										Chunk_menager);
+			    }
 			    else if(j - local_max_height <= dirt_layout_height){
 			      if(biomes_date[i] == biomes::plain) block_id = 1;
 			      else if(biomes_date[i] == biomes::desert) block_id = 3;
 			      else if(biomes_date[i] == biomes::snow) block_id = 4;
 			    }
-		       
+			    
 			    Chunk_menager.insert(std::make_shared<theta::Block>
-						 (sf::Vector2f{ Chunk_menager.get_start_point().x + i*32.f,j },
+						 (sf::Vector2f{cur_pos,j },
 						  Txt_menager,
-						  static_cast<theta::Texture_Id>(block_id)));
+						  static_cast<block_type>(block_id)));
 				
 			  }
+			  cur_pos +=32.f;
 			  
 			}
 		

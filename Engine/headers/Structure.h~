@@ -1,0 +1,13 @@
+#ifndef __STRUCTURE_H__
+#define __STRUCTURE_H__
+
+#include "Chunk.h"
+
+namespace theta{
+
+  
+
+};
+
+
+#endif

@@ -5,7 +5,6 @@
 #include<memory>
 #include<list>
 #include<unordered_map>
-con
 
 constexpr size_t MIN_SIZE_CHUNK = 32;
 
@@ -66,17 +65,20 @@ namespace theta {
 					return topLeft->insert(block);
 				}
 				else {
-					if (botLeft == nullptr) botLeft = std::make_unique<Chunk>(border.start + sf::Vector2f{0.f,sizeBy2}, static_cast<uint16_t>(sizeBy2), __allblocks);
+					if (botLeft == nullptr) botLeft = std::make_unique<Chunk>(border.start + sf::Vector2f{0.f,sizeBy2},
+												  static_cast<uint16_t>(sizeBy2), __allblocks);
 					return botLeft->insert(block);
 				}
 			}
 			else {
 				if (border.start.y + sizeBy2 > block->get_position().y) {
-					if (topRight == nullptr) topRight = std::make_unique<Chunk>(border.start + sf::Vector2f{ sizeBy2,0.f }, static_cast<uint16_t>(sizeBy2),__allblocks);
+					if (topRight == nullptr) topRight = std::make_unique<Chunk>(border.start + sf::Vector2f{ sizeBy2,0.f },
+												    static_cast<uint16_t>(sizeBy2),__allblocks);
 					return topRight->insert(block);
 				}
 				else {
-					if (botRight == nullptr) botRight = std::make_unique<Chunk>(border.start + sf::Vector2f{ sizeBy2,sizeBy2 }, static_cast<uint16_t>(sizeBy2),__allblocks);
+					if (botRight == nullptr) botRight = std::make_unique<Chunk>(border.start + sf::Vector2f{ sizeBy2,sizeBy2 },
+												    static_cast<uint16_t>(sizeBy2),__allblocks);
 					return botRight->insert(block);
 				}
 			}
@@ -149,7 +151,8 @@ namespace theta {
 		sf::Vector2f _start;
 		uint8_t _number_of_columns, _number_of_rows;
 	public:
-		Chunk_Menager(const sf::Vector2f& start, const uint8_t number_of_columns, const uint8_t number_of_rows) : _start{ start }, _number_of_columns{ number_of_columns }, _number_of_rows{ number_of_rows } {
+		Chunk_Menager(const sf::Vector2f& start, const uint8_t number_of_columns, const uint8_t number_of_rows) :
+		  _start{ start }, _number_of_columns{ number_of_columns }, _number_of_rows{ number_of_rows } {
 			for (uint8_t i = 0; i < number_of_columns; ++i) {
 				for (uint8_t j = 0; j < number_of_rows; ++j) {
 					Chunk ctmp(start + sf::Vector2f{ 1024.f * i,1024.f * j });

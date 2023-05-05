@@ -6,13 +6,13 @@
 #include<memory>
 
 namespace theta {
-  enum class  Texture_Id { Grass,Dirt,Rock,Sand,Snow ,Player };
+  enum class  Texture_Id { Grass,Dirt,Rock,Sand,Snow,Wood,Leaves ,Player };
 
 	using Textures = std::map<Texture_Id, std::shared_ptr<sf::Texture>>;
 	using Texture_ptr = std::shared_ptr<sf::Texture>;
 
         namespace {
-	  constexpr std::string_view list_of_Textures[] = { "texture.png","dirt.png","rock.png","sand.png","snow.png","player.png" };
+	  constexpr std::string_view list_of_Textures[] = { "texture.png","dirt.png","rock.png","sand.png","snow.png","wood.png","leaves.png","player.png" };
 	}
 	
 
