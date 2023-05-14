@@ -19,7 +19,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o: \
  /usr/include/bits/typesizes.h /usr/include/bits/time64.h \
  /usr/include/bits/types/clock_t.h /usr/include/bits/types/clockid_t.h \
  /usr/include/bits/types/time_t.h /usr/include/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
  /usr/include/bits/stdint-intn.h /usr/include/endian.h \
  /usr/include/bits/endian.h /usr/include/bits/endianness.h \
  /usr/include/bits/byteswap.h /usr/include/bits/uintn-identity.h \

@@ -20,10 +20,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -32,42 +32,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -103,40 +104,46 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/cmath \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -147,30 +154,30 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o: _deps/sfml-src/src/SFML/Graphics/Color.cpp \
   /usr/include/stdc-predef.h \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/Export.hpp \
   _deps/sfml-src/include/SFML/Config.hpp \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -179,42 +186,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o: _de
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -250,16 +258,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o: _de
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o: _deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp \
   /usr/include/stdc-predef.h \
@@ -274,10 +282,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -286,42 +294,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -357,39 +366,45 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _deps/sfml-src/src/SFML/Graphics/Font.cpp \
   /usr/include/stdc-predef.h \
@@ -400,10 +415,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -412,42 +427,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -483,64 +499,61 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -548,7 +561,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -556,24 +569,29 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/System/String.hpp \
   _deps/sfml-src/include/SFML/System/Utf.hpp \
-  /usr/include/c++/12.2.1/locale \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/locale \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -587,68 +605,69 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.h \
-  /usr/include/c++/12.2.1/ctime \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/13.1.1/ctime \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc \
-  /usr/include/c++/12.2.1/bits/locale_conv.h \
+  /usr/include/c++/13.1.1/bits/codecvt.h \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/13.1.1/bits/locale_conv.h \
   _deps/sfml-src/include/SFML/System/Utf.inl \
-  /usr/include/c++/12.2.1/iterator \
-  /usr/include/c++/12.2.1/bits/stream_iterator.h \
+  /usr/include/c++/13.1.1/iterator \
+  /usr/include/c++/13.1.1/bits/stream_iterator.h \
   _deps/sfml-src/include/SFML/System/String.inl \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/System/InputStream.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
   /usr/include/freetype2/ft2build.h \
   /usr/include/freetype2/freetype/config/ftheader.h \
   /usr/include/freetype2/freetype/freetype.h \
   /usr/include/freetype2/freetype/config/ftconfig.h \
   /usr/include/freetype2/freetype/config/ftoption.h \
   /usr/include/freetype2/freetype/config/ftstdlib.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/limits.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/syslimits.h \
   /usr/include/limits.h \
   /usr/include/bits/posix1_lim.h \
   /usr/include/bits/local_lim.h \
@@ -658,7 +677,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/bits/uio_lim.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/include/c++/12.2.1/stdlib.h \
+  /usr/include/c++/13.1.1/stdlib.h \
   /usr/include/setjmp.h \
   /usr/include/freetype2/freetype/config/integer-types.h \
   /usr/include/freetype2/freetype/config/public-macros.h \
@@ -674,7 +693,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o: _dep
   /usr/include/freetype2/freetype/ftbitmap.h \
   /usr/include/freetype2/freetype/ftcolor.h \
   /usr/include/freetype2/freetype/ftstroke.h \
-  /usr/include/c++/12.2.1/cstring
+  /usr/include/c++/13.1.1/cstring
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _deps/sfml-src/src/SFML/Graphics/GLCheck.cpp \
   /usr/include/stdc-predef.h \
@@ -682,7 +701,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   _deps/sfml-src/include/SFML/Config.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/inttypes.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
@@ -692,7 +711,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/types.h \
@@ -703,21 +722,22 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/System/Err.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/floatn-common.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
@@ -725,42 +745,41 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/bits/types/FILE.h \
   /usr/include/bits/types/locale_t.h \
   /usr/include/bits/types/__locale_t.h \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/endianness.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/types/time_t.h \
@@ -787,42 +806,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/bits/types/__sigset_t.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
@@ -836,8 +856,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -845,7 +865,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -853,32 +873,38 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o: _
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o: _deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp \
   /usr/include/stdc-predef.h \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/include/SFML/Config.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/inttypes.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
@@ -888,7 +914,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/types.h \
@@ -904,21 +930,22 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/floatn-common.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
@@ -926,42 +953,41 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/bits/types/FILE.h \
   /usr/include/bits/types/locale_t.h \
   /usr/include/bits/types/__locale_t.h \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/endianness.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/types/time_t.h \
@@ -988,42 +1014,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/bits/types/__sigset_t.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
@@ -1037,8 +1064,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -1046,7 +1073,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -1054,30 +1081,36 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o: _deps/sfml-src/src/SFML/Graphics/GLLoader.cpp \
   /usr/include/stdc-predef.h \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/inttypes.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
@@ -1087,7 +1120,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o: 
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/types.h \
@@ -1113,10 +1146,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o: _dep
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1125,42 +1158,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o: _dep
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -1196,16 +1230,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o: _dep
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/System/Vector3.hpp \
@@ -1221,10 +1255,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1233,42 +1267,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -1304,61 +1339,58 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -1366,7 +1398,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -1374,28 +1406,33 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/src/SFML/Graphics/ImageLoader.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -1409,27 +1446,27 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o: _de
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/cstring \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/cstring \
   /usr/include/string.h \
   /usr/include/strings.h
 
@@ -1441,9 +1478,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   _deps/sfml-src/include/SFML/Config.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1452,19 +1490,19 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/floatn-common.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
@@ -1473,72 +1511,68 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/types/FILE.h \
   /usr/include/bits/types/locale_t.h \
   /usr/include/bits/types/__locale_t.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
+  /usr/include/locale.h \
+  /usr/include/bits/locale.h \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
+  /usr/include/ctype.h \
   /usr/include/bits/types.h \
   /usr/include/bits/typesizes.h \
   /usr/include/bits/time64.h \
-  /usr/include/bits/stdint-intn.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
-  /usr/include/locale.h \
-  /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
-  /usr/include/ctype.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/endianness.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
@@ -1547,6 +1581,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/types/clockid_t.h \
   /usr/include/bits/types/time_t.h \
   /usr/include/bits/types/timer_t.h \
+  /usr/include/bits/stdint-intn.h \
   /usr/include/endian.h \
   /usr/include/bits/byteswap.h \
   /usr/include/bits/uintn-identity.h \
@@ -1565,8 +1600,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -1574,7 +1609,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -1582,26 +1617,32 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/System/InputStream.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -1615,32 +1656,32 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
   _deps/sfml-src/extlibs/headers/stb_image/stb_image.h \
-  /usr/include/c++/12.2.1/stdlib.h \
+  /usr/include/c++/13.1.1/stdlib.h \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/limits.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/syslimits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/limits.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/syslimits.h \
   /usr/include/limits.h \
   /usr/include/bits/posix1_lim.h \
   /usr/include/bits/local_lim.h \
@@ -1648,8 +1689,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/posix2_lim.h \
   /usr/include/bits/xopen_lim.h \
   /usr/include/bits/uio_lim.h \
-  /usr/include/c++/12.2.1/math.h \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/math.h \
+  /usr/include/c++/13.1.1/cmath \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -1660,25 +1701,28 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc \
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc \
   /usr/include/assert.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/emmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/xmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/mmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/mm_malloc.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/emmintrin.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/xmmintrin.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/mmintrin.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/mm_malloc.h \
   _deps/sfml-src/extlibs/headers/stb_image/stb_image_write.h
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o: _deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp \
@@ -1694,10 +1738,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1706,42 +1750,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -1777,40 +1822,46 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/cmath \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -1821,20 +1872,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.c
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderStates.cpp \
   /usr/include/stdc-predef.h \
@@ -1846,10 +1897,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1858,42 +1909,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -1929,18 +1981,18 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/cstddef
+  /usr/include/c++/13.1.1/cstddef
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp \
   /usr/include/stdc-predef.h \
@@ -1951,10 +2003,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -1963,42 +2015,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -2034,16 +2087,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/View.hpp \
   _deps/sfml-src/include/SFML/Graphics/Transform.hpp \
@@ -2061,59 +2114,59 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   _deps/sfml-src/include/SFML/Graphics/Glsl.inl \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -2121,7 +2174,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -2129,37 +2182,40 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/Window/Context.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
   _deps/sfml-src/include/SFML/System/Mutex.hpp \
   _deps/sfml-src/include/SFML/System/Lock.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -2173,31 +2229,31 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/cassert \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/cassert \
   /usr/include/assert.h \
-  /usr/include/c++/12.2.1/iostream \
-  /usr/include/c++/12.2.1/istream \
-  /usr/include/c++/12.2.1/bits/istream.tcc
+  /usr/include/c++/13.1.1/iostream \
+  /usr/include/c++/13.1.1/istream \
+  /usr/include/c++/13.1.1/bits/istream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp \
   /usr/include/stdc-predef.h \
@@ -2210,10 +2266,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -2222,42 +2278,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -2293,61 +2350,58 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -2355,7 +2409,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -2363,13 +2417,18 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
@@ -2385,28 +2444,26 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   _deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
   _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
   _deps/sfml-src/include/SFML/Window/Context.hpp \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
   _deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -2420,26 +2477,26 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cp
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp \
   /usr/include/stdc-predef.h \
@@ -2462,7 +2519,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/inttypes.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
@@ -2472,7 +2529,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/types.h \
@@ -2483,21 +2540,22 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/src/SFML/Graphics/TextureSaver.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/floatn-common.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
@@ -2505,42 +2563,41 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/types/FILE.h \
   /usr/include/bits/types/locale_t.h \
   /usr/include/bits/types/__locale_t.h \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/endianness.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/types/time_t.h \
@@ -2567,42 +2624,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/types/__sigset_t.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
@@ -2616,8 +2674,8 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -2625,7 +2683,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -2633,25 +2691,31 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp \
   /usr/include/stdc-predef.h \
@@ -2664,11 +2728,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -2677,50 +2740,61 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Export.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
@@ -2728,16 +2802,15 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -2773,51 +2846,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -2825,7 +2890,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -2833,31 +2898,34 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/System/Mutex.hpp \
   _deps/sfml-src/include/SFML/System/Lock.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -2871,31 +2939,31 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImp
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/utility \
-  /usr/include/c++/12.2.1/bits/stl_relops.h \
-  /usr/include/c++/12.2.1/set \
-  /usr/include/c++/12.2.1/bits/stl_set.h \
-  /usr/include/c++/12.2.1/bits/stl_multiset.h
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/utility \
+  /usr/include/c++/13.1.1/bits/stl_relops.h \
+  /usr/include/c++/13.1.1/set \
+  /usr/include/c++/13.1.1/bits/stl_set.h \
+  /usr/include/c++/13.1.1/bits/stl_multiset.h
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o: _deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp \
   /usr/include/stdc-predef.h \
@@ -2907,10 +2975,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -2919,42 +2987,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -2990,16 +3059,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/View.hpp \
   _deps/sfml-src/include/SFML/Graphics/Transform.hpp \
@@ -3010,50 +3079,47 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -3061,7 +3127,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -3069,13 +3135,18 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/Window.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
   _deps/sfml-src/include/SFML/Window/Cursor.hpp \
@@ -3088,11 +3159,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   _deps/sfml-src/include/SFML/System/Time.hpp \
   _deps/sfml-src/include/SFML/System/String.hpp \
   _deps/sfml-src/include/SFML/System/Utf.hpp \
-  /usr/include/c++/12.2.1/locale \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/locale \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -3106,57 +3177,58 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.h \
-  /usr/include/c++/12.2.1/ctime \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/13.1.1/ctime \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc \
-  /usr/include/c++/12.2.1/bits/locale_conv.h \
+  /usr/include/c++/13.1.1/bits/codecvt.h \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/13.1.1/bits/locale_conv.h \
   _deps/sfml-src/include/SFML/System/Utf.inl \
-  /usr/include/c++/12.2.1/iterator \
-  /usr/include/c++/12.2.1/bits/stream_iterator.h \
+  /usr/include/c++/13.1.1/iterator \
+  /usr/include/c++/13.1.1/bits/stream_iterator.h \
   _deps/sfml-src/include/SFML/System/String.inl \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp \
   _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp \
   _deps/sfml-src/include/SFML/Window/Context.hpp \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _deps/sfml-src/src/SFML/Graphics/Shader.cpp \
   /usr/include/stdc-predef.h \
@@ -3168,10 +3240,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -3180,42 +3252,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -3251,16 +3324,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/System/Vector3.hpp \
@@ -3270,59 +3343,59 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -3330,7 +3403,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -3338,36 +3411,39 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/Window/Context.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
   _deps/sfml-src/include/SFML/System/InputStream.hpp \
   _deps/sfml-src/include/SFML/System/Mutex.hpp \
   _deps/sfml-src/include/SFML/System/Lock.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -3381,33 +3457,33 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o: _d
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/fstream \
-  /usr/include/c++/12.2.1/istream \
-  /usr/include/c++/12.2.1/bits/istream.tcc \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/basic_file.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++io.h \
-  /usr/include/c++/12.2.1/bits/fstream.tcc
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/fstream \
+  /usr/include/c++/13.1.1/istream \
+  /usr/include/c++/13.1.1/bits/istream.tcc \
+  /usr/include/c++/13.1.1/bits/codecvt.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
+  /usr/include/c++/13.1.1/bits/fstream.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _deps/sfml-src/src/SFML/Graphics/Shape.cpp \
   /usr/include/stdc-predef.h \
@@ -3421,10 +3497,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -3433,42 +3509,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -3504,77 +3581,79 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
   _deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
   _deps/sfml-src/include/SFML/Graphics/View.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -3582,7 +3661,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -3590,22 +3669,22 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -3619,27 +3698,27 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/cmath \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -3650,20 +3729,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o: _de
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _deps/sfml-src/src/SFML/Graphics/Sprite.cpp \
   /usr/include/stdc-predef.h \
@@ -3677,10 +3756,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _d
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -3689,42 +3768,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _d
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -3760,66 +3840,63 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _d
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -3827,7 +3904,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _d
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -3835,13 +3912,18 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o: _d
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
@@ -3862,10 +3944,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -3874,42 +3956,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -3945,16 +4028,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transformable.hpp \
   _deps/sfml-src/include/SFML/Graphics/Font.hpp \
@@ -3962,50 +4045,47 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   _deps/sfml-src/include/SFML/Graphics/Texture.hpp \
   _deps/sfml-src/include/SFML/Graphics/Image.hpp \
   _deps/sfml-src/include/SFML/Graphics/Color.hpp \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -4013,7 +4093,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -4021,24 +4101,29 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
   _deps/sfml-src/include/SFML/System/Export.hpp \
   _deps/sfml-src/include/SFML/System/String.hpp \
   _deps/sfml-src/include/SFML/System/Utf.hpp \
-  /usr/include/c++/12.2.1/locale \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/locale \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -4052,55 +4137,53 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.h \
-  /usr/include/c++/12.2.1/ctime \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/13.1.1/ctime \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc \
-  /usr/include/c++/12.2.1/bits/locale_conv.h \
+  /usr/include/c++/13.1.1/bits/codecvt.h \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/13.1.1/bits/locale_conv.h \
   _deps/sfml-src/include/SFML/System/Utf.inl \
-  /usr/include/c++/12.2.1/iterator \
-  /usr/include/c++/12.2.1/bits/stream_iterator.h \
+  /usr/include/c++/13.1.1/iterator \
+  /usr/include/c++/13.1.1/bits/stream_iterator.h \
   _deps/sfml-src/include/SFML/System/String.inl \
-  /usr/include/c++/12.2.1/map \
-  /usr/include/c++/12.2.1/bits/stl_tree.h \
-  /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/bits/node_handle.h \
-  /usr/include/c++/12.2.1/bits/stl_map.h \
-  /usr/include/c++/12.2.1/tuple \
-  /usr/include/c++/12.2.1/bits/uses_allocator.h \
-  /usr/include/c++/12.2.1/bits/stl_multimap.h \
-  /usr/include/c++/12.2.1/bits/erase_if.h \
+  /usr/include/c++/13.1.1/map \
+  /usr/include/c++/13.1.1/bits/stl_tree.h \
+  /usr/include/c++/13.1.1/ext/aligned_buffer.h \
+  /usr/include/c++/13.1.1/bits/node_handle.h \
+  /usr/include/c++/13.1.1/bits/stl_map.h \
+  /usr/include/c++/13.1.1/bits/stl_multimap.h \
+  /usr/include/c++/13.1.1/bits/erase_if.h \
   _deps/sfml-src/include/SFML/Graphics/VertexArray.hpp \
   _deps/sfml-src/include/SFML/Graphics/Vertex.hpp \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
   _deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
   _deps/sfml-src/include/SFML/Graphics/View.hpp \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/cmath \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -4111,20 +4194,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o: _dep
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _deps/sfml-src/src/SFML/Graphics/Texture.cpp \
   /usr/include/stdc-predef.h \
@@ -4136,10 +4219,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -4148,42 +4231,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -4219,61 +4303,58 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
-  /usr/include/stdint.h \
-  /usr/include/bits/stdint-uintn.h \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -4281,7 +4362,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -4289,13 +4370,18 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
@@ -4304,6 +4390,9 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+  /usr/include/stdint.h \
+  /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/src/SFML/Graphics/TextureSaver.hpp \
   _deps/sfml-src/include/SFML/Window/Context.hpp \
   _deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
@@ -4316,11 +4405,11 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   _deps/sfml-src/include/SFML/System/Time.hpp \
   _deps/sfml-src/include/SFML/System/String.hpp \
   _deps/sfml-src/include/SFML/System/Utf.hpp \
-  /usr/include/c++/12.2.1/locale \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/locale \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -4334,51 +4423,51 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o: _
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.h \
-  /usr/include/c++/12.2.1/ctime \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/13.1.1/ctime \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
-  /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc \
-  /usr/include/c++/12.2.1/bits/locale_conv.h \
+  /usr/include/c++/13.1.1/bits/codecvt.h \
+  /usr/include/c++/13.1.1/bits/locale_facets_nonio.tcc \
+  /usr/include/c++/13.1.1/bits/locale_conv.h \
   _deps/sfml-src/include/SFML/System/Utf.inl \
-  /usr/include/c++/12.2.1/iterator \
-  /usr/include/c++/12.2.1/bits/stream_iterator.h \
+  /usr/include/c++/13.1.1/iterator \
+  /usr/include/c++/13.1.1/bits/stream_iterator.h \
   _deps/sfml-src/include/SFML/System/String.inl \
   _deps/sfml-src/include/SFML/System/Mutex.hpp \
   _deps/sfml-src/include/SFML/System/Lock.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/cassert \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/cassert \
   /usr/include/assert.h \
-  /usr/include/c++/12.2.1/cstring \
+  /usr/include/c++/13.1.1/cstring \
   /usr/include/string.h \
   /usr/include/strings.h
 
@@ -4389,7 +4478,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp
   _deps/sfml-src/include/SFML/Config.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/inttypes.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
@@ -4399,7 +4488,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/libc-header-start.h \
   /usr/include/bits/types.h \
@@ -4417,10 +4506,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o:
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -4429,42 +4518,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o:
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -4500,18 +4590,19 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o:
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/cmath \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -4522,20 +4613,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o:
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o: _deps/sfml-src/src/SFML/Graphics/Transformable.cpp \
   /usr/include/stdc-predef.h \
@@ -4546,10 +4637,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -4558,42 +4649,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -4629,18 +4721,19 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/cmath \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -4651,20 +4744,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cp
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.o: _deps/sfml-src/src/SFML/Graphics/Vertex.cpp \
   /usr/include/stdc-predef.h \
@@ -4686,10 +4779,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.
   _deps/sfml-src/include/SFML/System/Vector2.inl \
   _deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp \
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -4698,42 +4791,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -4769,38 +4863,44 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Drawable.hpp \
   _deps/sfml-src/include/SFML/Graphics/RenderStates.hpp \
   _deps/sfml-src/include/SFML/Graphics/BlendMode.hpp \
   _deps/sfml-src/include/SFML/Graphics/Transform.hpp \
-  /usr/include/c++/12.2.1/vector \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/stl_uninitialized.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_vector.h \
-  /usr/include/c++/12.2.1/bits/stl_bvector.h \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/vector \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/stl_uninitialized.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_vector.h \
+  /usr/include/c++/13.1.1/bits/stl_bvector.h \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/vector.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
   _deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp \
   _deps/sfml-src/include/SFML/Graphics/View.hpp \
   _deps/sfml-src/include/SFML/System/NonCopyable.hpp \
@@ -4819,10 +4919,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -4831,42 +4931,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -4902,16 +5003,16 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Window/GlResource.hpp \
   _deps/sfml-src/include/SFML/Window/Export.hpp \
@@ -4925,46 +5026,46 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp \
   _deps/sfml-src/src/SFML/Graphics/GLLoader.hpp \
   /usr/include/inttypes.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/stdint-uintn.h \
   _deps/sfml-src/include/SFML/System/Mutex.hpp \
   _deps/sfml-src/include/SFML/System/Lock.hpp \
   _deps/sfml-src/include/SFML/System/Err.hpp \
-  /usr/include/c++/12.2.1/ostream \
-  /usr/include/c++/12.2.1/ios \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/bits/stringfwd.h \
-  /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/postypes.h \
-  /usr/include/c++/12.2.1/cwchar \
+  /usr/include/c++/13.1.1/ostream \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
+  /usr/include/c++/13.1.1/ios \
+  /usr/include/c++/13.1.1/iosfwd \
+  /usr/include/c++/13.1.1/bits/stringfwd.h \
+  /usr/include/c++/13.1.1/bits/memoryfwd.h \
+  /usr/include/c++/13.1.1/bits/postypes.h \
+  /usr/include/c++/13.1.1/cwchar \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__FILE.h \
   /usr/include/bits/types/FILE.h \
-  /usr/include/c++/12.2.1/exception \
-  /usr/include/c++/12.2.1/bits/exception_ptr.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_init_exception.h \
-  /usr/include/c++/12.2.1/typeinfo \
-  /usr/include/c++/12.2.1/bits/hash_bytes.h \
-  /usr/include/c++/12.2.1/bits/nested_exception.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
-  /usr/include/c++/12.2.1/cstdint \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
+  /usr/include/c++/13.1.1/exception \
+  /usr/include/c++/13.1.1/bits/exception_ptr.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_init_exception.h \
+  /usr/include/c++/13.1.1/typeinfo \
+  /usr/include/c++/13.1.1/bits/hash_bytes.h \
+  /usr/include/c++/13.1.1/bits/nested_exception.h \
+  /usr/include/c++/13.1.1/bits/char_traits.h \
+  /usr/include/c++/13.1.1/bits/localefwd.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/13.1.1/clocale \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/cctype \
+  /usr/include/c++/13.1.1/cctype \
   /usr/include/ctype.h \
-  /usr/include/c++/12.2.1/bits/ios_base.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/c++/13.1.1/bits/ios_base.h \
+  /usr/include/c++/13.1.1/ext/atomicity.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/pthread.h \
   /usr/include/sched.h \
   /usr/include/bits/sched.h \
@@ -4978,27 +5079,27 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   /usr/include/bits/setjmp.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
   /usr/include/sys/single_threaded.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/string \
-  /usr/include/c++/12.2.1/bits/allocator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
-  /usr/include/c++/12.2.1/bits/new_allocator.h \
-  /usr/include/c++/12.2.1/bits/ostream_insert.h \
-  /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
-  /usr/include/c++/12.2.1/bits/stl_function.h \
-  /usr/include/c++/12.2.1/backward/binders.h \
-  /usr/include/c++/12.2.1/bits/refwrap.h \
-  /usr/include/c++/12.2.1/bits/range_access.h \
-  /usr/include/c++/12.2.1/bits/basic_string.h \
-  /usr/include/c++/12.2.1/ext/alloc_traits.h \
-  /usr/include/c++/12.2.1/bits/alloc_traits.h \
-  /usr/include/c++/12.2.1/string_view \
-  /usr/include/c++/12.2.1/bits/functional_hash.h \
-  /usr/include/c++/12.2.1/bits/string_view.tcc \
-  /usr/include/c++/12.2.1/ext/string_conversions.h \
-  /usr/include/c++/12.2.1/cstdio \
+  /usr/include/c++/13.1.1/bits/locale_classes.h \
+  /usr/include/c++/13.1.1/string \
+  /usr/include/c++/13.1.1/bits/allocator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
+  /usr/include/c++/13.1.1/bits/new_allocator.h \
+  /usr/include/c++/13.1.1/bits/ostream_insert.h \
+  /usr/include/c++/13.1.1/bits/cxxabi_forced.h \
+  /usr/include/c++/13.1.1/bits/stl_function.h \
+  /usr/include/c++/13.1.1/backward/binders.h \
+  /usr/include/c++/13.1.1/bits/refwrap.h \
+  /usr/include/c++/13.1.1/bits/range_access.h \
+  /usr/include/c++/13.1.1/bits/basic_string.h \
+  /usr/include/c++/13.1.1/ext/alloc_traits.h \
+  /usr/include/c++/13.1.1/bits/alloc_traits.h \
+  /usr/include/c++/13.1.1/string_view \
+  /usr/include/c++/13.1.1/bits/functional_hash.h \
+  /usr/include/c++/13.1.1/bits/string_view.tcc \
+  /usr/include/c++/13.1.1/ext/string_conversions.h \
+  /usr/include/c++/13.1.1/cstdio \
   /usr/include/stdio.h \
   /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__fpos64_t.h \
@@ -5006,7 +5107,7 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/stdio.h \
-  /usr/include/c++/12.2.1/cerrno \
+  /usr/include/c++/13.1.1/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
   /usr/include/linux/errno.h \
@@ -5014,26 +5115,31 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp
   /usr/include/asm-generic/errno.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/bits/types/error_t.h \
-  /usr/include/c++/12.2.1/bits/charconv.h \
-  /usr/include/c++/12.2.1/bits/basic_string.tcc \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
-  /usr/include/c++/12.2.1/system_error \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h \
-  /usr/include/c++/12.2.1/stdexcept \
-  /usr/include/c++/12.2.1/streambuf \
-  /usr/include/c++/12.2.1/bits/streambuf.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.h \
-  /usr/include/c++/12.2.1/cwctype \
+  /usr/include/c++/13.1.1/bits/charconv.h \
+  /usr/include/c++/13.1.1/bits/basic_string.tcc \
+  /usr/include/c++/13.1.1/bits/memory_resource.h \
+  /usr/include/c++/13.1.1/cstddef \
+  /usr/include/c++/13.1.1/bits/uses_allocator.h \
+  /usr/include/c++/13.1.1/bits/uses_allocator_args.h \
+  /usr/include/c++/13.1.1/tuple \
+  /usr/include/c++/13.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/13.1.1/system_error \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
+  /usr/include/c++/13.1.1/stdexcept \
+  /usr/include/c++/13.1.1/streambuf \
+  /usr/include/c++/13.1.1/bits/streambuf.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.h \
+  /usr/include/c++/13.1.1/cwctype \
   /usr/include/wctype.h \
   /usr/include/bits/wctype-wchar.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
-  /usr/include/c++/12.2.1/bits/streambuf_iterator.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
-  /usr/include/c++/12.2.1/bits/locale_facets.tcc \
-  /usr/include/c++/12.2.1/bits/basic_ios.tcc \
-  /usr/include/c++/12.2.1/bits/ostream.tcc \
-  /usr/include/c++/12.2.1/cstring \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/13.1.1/bits/streambuf_iterator.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
+  /usr/include/c++/13.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/13.1.1/bits/basic_ios.tcc \
+  /usr/include/c++/13.1.1/bits/ostream.tcc \
+  /usr/include/c++/13.1.1/cstring \
   /usr/include/string.h \
   /usr/include/strings.h
 
@@ -5045,10 +5151,10 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: _dep
   _deps/sfml-src/include/SFML/Graphics/Rect.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.hpp \
   _deps/sfml-src/include/SFML/System/Vector2.inl \
-  /usr/include/c++/12.2.1/algorithm \
-  /usr/include/c++/12.2.1/bits/stl_algobase.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/13.1.1/algorithm \
+  /usr/include/c++/13.1.1/bits/stl_algobase.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/features.h \
   /usr/include/features-time64.h \
   /usr/include/bits/wordsize.h \
@@ -5057,42 +5163,43 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: _dep
   /usr/include/bits/long-double.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
-  /usr/include/c++/12.2.1/pstl/pstl_config.h \
-  /usr/include/c++/12.2.1/bits/functexcept.h \
-  /usr/include/c++/12.2.1/bits/exception_defines.h \
-  /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/ext/type_traits.h \
-  /usr/include/c++/12.2.1/ext/numeric_traits.h \
-  /usr/include/c++/12.2.1/bits/stl_pair.h \
-  /usr/include/c++/12.2.1/type_traits \
-  /usr/include/c++/12.2.1/bits/move.h \
-  /usr/include/c++/12.2.1/bits/utility.h \
-  /usr/include/c++/12.2.1/compare \
-  /usr/include/c++/12.2.1/concepts \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
-  /usr/include/c++/12.2.1/bits/iterator_concepts.h \
-  /usr/include/c++/12.2.1/bits/ptr_traits.h \
-  /usr/include/c++/12.2.1/bits/ranges_cmp.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/12.2.1/bits/concept_check.h \
-  /usr/include/c++/12.2.1/debug/assertions.h \
-  /usr/include/c++/12.2.1/bits/stl_iterator.h \
-  /usr/include/c++/12.2.1/new \
-  /usr/include/c++/12.2.1/bits/exception.h \
-  /usr/include/c++/12.2.1/bits/stl_construct.h \
-  /usr/include/c++/12.2.1/debug/debug.h \
-  /usr/include/c++/12.2.1/bits/predefined_ops.h \
-  /usr/include/c++/12.2.1/bits/stl_algo.h \
-  /usr/include/c++/12.2.1/bits/algorithmfwd.h \
-  /usr/include/c++/12.2.1/initializer_list \
-  /usr/include/c++/12.2.1/bits/stl_heap.h \
-  /usr/include/c++/12.2.1/bits/stl_tempbuf.h \
-  /usr/include/c++/12.2.1/bits/uniform_int_dist.h \
-  /usr/include/c++/12.2.1/cstdlib \
+  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/13.1.1/pstl/pstl_config.h \
+  /usr/include/c++/13.1.1/bits/functexcept.h \
+  /usr/include/c++/13.1.1/bits/exception_defines.h \
+  /usr/include/c++/13.1.1/bits/cpp_type_traits.h \
+  /usr/include/c++/13.1.1/ext/type_traits.h \
+  /usr/include/c++/13.1.1/ext/numeric_traits.h \
+  /usr/include/c++/13.1.1/bits/stl_pair.h \
+  /usr/include/c++/13.1.1/type_traits \
+  /usr/include/c++/13.1.1/bits/move.h \
+  /usr/include/c++/13.1.1/bits/utility.h \
+  /usr/include/c++/13.1.1/compare \
+  /usr/include/c++/13.1.1/concepts \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_types.h \
+  /usr/include/c++/13.1.1/bits/iterator_concepts.h \
+  /usr/include/c++/13.1.1/bits/ptr_traits.h \
+  /usr/include/c++/13.1.1/bits/ranges_cmp.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h \
+  /usr/include/c++/13.1.1/bits/concept_check.h \
+  /usr/include/c++/13.1.1/debug/assertions.h \
+  /usr/include/c++/13.1.1/bits/stl_iterator.h \
+  /usr/include/c++/13.1.1/new \
+  /usr/include/c++/13.1.1/bits/exception.h \
+  /usr/include/c++/13.1.1/bits/stl_construct.h \
+  /usr/include/c++/13.1.1/debug/debug.h \
+  /usr/include/c++/13.1.1/bits/predefined_ops.h \
+  /usr/include/c++/13.1.1/bit \
+  /usr/include/c++/13.1.1/bits/stl_algo.h \
+  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
+  /usr/include/c++/13.1.1/initializer_list \
+  /usr/include/c++/13.1.1/bits/stl_heap.h \
+  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
+  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
+  /usr/include/c++/13.1.1/cstdlib \
   /usr/include/stdlib.h \
   /usr/include/bits/libc-header-start.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/floatn.h \
@@ -5128,19 +5235,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: _dep
   /usr/include/alloca.h \
   /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
-  /usr/include/c++/12.2.1/bits/std_abs.h \
-  /usr/include/c++/12.2.1/bits/ranges_algo.h \
-  /usr/include/c++/12.2.1/bits/ranges_algobase.h \
-  /usr/include/c++/12.2.1/bits/ranges_base.h \
-  /usr/include/c++/12.2.1/bits/max_size_type.h \
-  /usr/include/c++/12.2.1/numbers \
-  /usr/include/c++/12.2.1/bits/invoke.h \
-  /usr/include/c++/12.2.1/bits/ranges_util.h \
-  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/12.2.1/pstl/execution_defs.h \
+  /usr/include/c++/13.1.1/bits/std_abs.h \
+  /usr/include/c++/13.1.1/bits/ranges_algo.h \
+  /usr/include/c++/13.1.1/bits/ranges_algobase.h \
+  /usr/include/c++/13.1.1/bits/ranges_base.h \
+  /usr/include/c++/13.1.1/bits/max_size_type.h \
+  /usr/include/c++/13.1.1/numbers \
+  /usr/include/c++/13.1.1/bits/invoke.h \
+  /usr/include/c++/13.1.1/bits/ranges_util.h \
+  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
+  /usr/include/c++/13.1.1/pstl/execution_defs.h \
   _deps/sfml-src/include/SFML/Graphics/Rect.inl \
   _deps/sfml-src/include/SFML/Graphics/Transform.hpp \
-  /usr/include/c++/12.2.1/cmath \
+  /usr/include/c++/13.1.1/cmath \
+  /usr/include/c++/13.1.1/bits/requires_hosted.h \
   /usr/include/math.h \
   /usr/include/bits/math-vector.h \
   /usr/include/bits/libm-simd-decl-stubs.h \
@@ -5151,20 +5259,20 @@ _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o: _dep
   /usr/include/bits/mathcalls.h \
   /usr/include/bits/mathcalls-narrow.h \
   /usr/include/bits/iscanonical.h \
-  /usr/include/c++/12.2.1/bits/specfun.h \
-  /usr/include/c++/12.2.1/limits \
-  /usr/include/c++/12.2.1/tr1/gamma.tcc \
-  /usr/include/c++/12.2.1/tr1/special_function_util.h \
-  /usr/include/c++/12.2.1/tr1/bessel_function.tcc \
-  /usr/include/c++/12.2.1/tr1/beta_function.tcc \
-  /usr/include/c++/12.2.1/tr1/ell_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/exp_integral.tcc \
-  /usr/include/c++/12.2.1/tr1/hypergeometric.tcc \
-  /usr/include/c++/12.2.1/tr1/legendre_function.tcc \
-  /usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_hermite.tcc \
-  /usr/include/c++/12.2.1/tr1/poly_laguerre.tcc \
-  /usr/include/c++/12.2.1/tr1/riemann_zeta.tcc
+  /usr/include/c++/13.1.1/bits/specfun.h \
+  /usr/include/c++/13.1.1/limits \
+  /usr/include/c++/13.1.1/tr1/gamma.tcc \
+  /usr/include/c++/13.1.1/tr1/special_function_util.h \
+  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
+  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
+  /usr/include/c++/13.1.1/tr1/ell_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/exp_integral.tcc \
+  /usr/include/c++/13.1.1/tr1/hypergeometric.tcc \
+  /usr/include/c++/13.1.1/tr1/legendre_function.tcc \
+  /usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
+  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
+  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc
 
 
 _deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp:
@@ -5173,13 +5281,11 @@ _deps/sfml-src/src/SFML/Graphics/Transformable.cpp:
 
 _deps/sfml-src/src/SFML/Graphics/Text.cpp:
 
-_deps/sfml-src/src/SFML/Graphics/Sprite.cpp:
-
 _deps/sfml-src/src/SFML/Graphics/Shape.cpp:
 
-/usr/include/c++/12.2.1/bits/fstream.tcc:
+/usr/include/c++/13.1.1/bits/fstream.tcc:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++io.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/basic_file.h:
 
 _deps/sfml-src/include/SFML/System/Clock.hpp:
 
@@ -5187,37 +5293,39 @@ _deps/sfml-src/include/SFML/Window/WindowStyle.hpp:
 
 _deps/sfml-src/include/SFML/Window/WindowHandle.hpp:
 
-_deps/sfml-src/include/SFML/Window/VideoMode.hpp:
-
 _deps/sfml-src/include/SFML/Window/Window.hpp:
-
-_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp:
 
 _deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp:
 
-/usr/include/c++/12.2.1/bits/stl_multiset.h:
+/usr/include/c++/13.1.1/bits/stl_multiset.h:
 
-/usr/include/c++/12.2.1/bits/stl_set.h:
+/usr/include/c++/13.1.1/bits/stl_set.h:
 
-/usr/include/c++/12.2.1/set:
+/usr/include/c++/13.1.1/utility:
 
-_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp:
-
-_deps/sfml-src/include/SFML/Window/Cursor.hpp:
-
-_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.hpp:
+_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp:
 
 _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.hpp:
 
-/usr/include/c++/12.2.1/cassert:
+_deps/sfml-src/src/SFML/Graphics/Texture.cpp:
+
+/usr/include/c++/13.1.1/bits/istream.tcc:
+
+/usr/include/c++/13.1.1/istream:
+
+/usr/include/c++/13.1.1/iostream:
+
+/usr/include/c++/13.1.1/set:
 
 _deps/sfml-src/include/SFML/System/Lock.hpp:
 
 _deps/sfml-src/include/SFML/System/Mutex.hpp:
 
-_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp:
+_deps/sfml-src/include/SFML/Graphics/View.hpp:
 
 _deps/sfml-src/include/SFML/Graphics/RenderTarget.hpp:
+
+_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp:
 
 _deps/sfml-src/include/SFML/Graphics/RectangleShape.hpp:
 
@@ -5225,17 +5333,23 @@ _deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp:
 
 _deps/sfml-src/extlibs/headers/stb_image/stb_image_write.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/emmintrin.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/mmintrin.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/xmmintrin.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/emmintrin.h:
 
 /usr/include/assert.h:
 
-/usr/include/c++/12.2.1/math.h:
-
-_deps/sfml-src/extlibs/headers/stb_image/stb_image.h:
-
 _deps/sfml-src/src/SFML/Graphics/ImageLoader.hpp:
 
+_deps/sfml-src/include/SFML/Graphics/Glsl.inl:
+
 _deps/sfml-src/include/SFML/System/Vector3.inl:
+
+/usr/include/c++/13.1.1/bits/stl_relops.h:
+
+_deps/sfml-src/include/SFML/System/Vector3.hpp:
 
 _deps/sfml-src/include/SFML/Graphics/Glsl.hpp:
 
@@ -5245,15 +5359,19 @@ _deps/sfml-src/src/SFML/Graphics/GLLoader.cpp:
 
 _deps/sfml-src/include/SFML/Window/ContextSettings.hpp:
 
-_deps/sfml-src/include/SFML/Graphics/Glsl.inl:
+_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp:
 
-/usr/include/c++/12.2.1/cstring:
+_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp:
+
+/usr/include/c++/13.1.1/cstring:
 
 /usr/include/freetype2/freetype/ftstroke.h:
 
 /usr/include/freetype2/freetype/ftcolor.h:
 
 /usr/include/freetype2/freetype/ftoutln.h:
+
+/usr/include/freetype2/freetype/ftglyph.h:
 
 _deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp:
 
@@ -5269,25 +5387,25 @@ _deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp:
 
 /usr/include/freetype2/freetype/config/integer-types.h:
 
-/usr/include/strings.h:
+/usr/include/setjmp.h:
 
 /usr/include/string.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/posix2_lim.h:
 
 _deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp:
 
 /usr/include/linux/limits.h:
 
+/usr/include/bits/local_lim.h:
+
 _deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.hpp:
 
 /usr/include/limits.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/syslimits.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed/limits.h:
-
-/usr/include/freetype2/freetype/config/ftstdlib.h:
-
-/usr/include/freetype2/freetype/config/ftoption.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/limits.h:
 
 _deps/sfml-src/include/SFML/Graphics/Text.hpp:
 
@@ -5297,17 +5415,9 @@ _deps/sfml-src/include/SFML/Graphics/Text.hpp:
 
 /usr/include/freetype2/ft2build.h:
 
-/usr/include/c++/12.2.1/bits/ostream.tcc:
+/usr/include/c++/13.1.1/bits/ostream.tcc:
 
-/usr/include/c++/12.2.1/bits/basic_ios.tcc:
-
-/usr/include/c++/12.2.1/bits/basic_ios.h:
-
-/usr/include/c++/12.2.1/ios:
-
-/usr/include/c++/12.2.1/ostream:
-
-/usr/include/c++/12.2.1/istream:
+/usr/include/c++/13.1.1/ios:
 
 _deps/sfml-src/include/SFML/System/InputStream.hpp:
 
@@ -5315,141 +5425,35 @@ _deps/sfml-src/include/SFML/System/InputStream.hpp:
 
 _deps/sfml-src/src/SFML/Graphics/GLExtensions.hpp:
 
+/usr/include/c++/13.1.1/bits/stl_multimap.h:
+
+_deps/sfml-src/include/SFML/System/String.inl:
+
 _deps/sfml-src/include/SFML/System/Err.hpp:
 
 _deps/sfml-src/src/SFML/Graphics/GLCheck.hpp:
 
-/usr/include/c++/12.2.1/bits/erase_if.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/mmintrin.h:
-
-/usr/include/c++/12.2.1/bits/stl_multimap.h:
-
-/usr/include/c++/12.2.1/bits/uses_allocator.h:
-
-_deps/sfml-src/include/SFML/Graphics/Sprite.hpp:
-
-/usr/include/c++/12.2.1/tuple:
-
-/usr/include/c++/12.2.1/bits/stl_map.h:
-
-/usr/include/c++/12.2.1/bits/node_handle.h:
-
-/usr/include/c++/12.2.1/ext/aligned_buffer.h:
+/usr/include/c++/13.1.1/bits/stream_iterator.h:
 
 _deps/sfml-src/include/SFML/System/Utf.inl:
 
-/usr/include/c++/12.2.1/bits/locale_conv.h:
+/usr/include/c++/13.1.1/bits/codecvt.h:
 
-/usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/messages_members.h:
 
-/usr/include/c++/12.2.1/bits/codecvt.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/time_members.h:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
 
-_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp:
+/usr/include/c++/13.1.1/bits/streambuf.tcc:
 
-/usr/include/c++/12.2.1/ctime:
+/usr/include/c++/13.1.1/bits/functional_hash.h:
 
-/usr/include/c++/12.2.1/bits/locale_facets_nonio.h:
+_deps/sfml-src/include/SFML/Graphics/Sprite.hpp:
 
-/usr/include/c++/12.2.1/bits/locale_facets.tcc:
+/usr/include/c++/13.1.1/bits/stl_vector.h:
 
-/usr/include/c++/12.2.1/bits/functional_hash.h:
-
-/usr/include/bits/types/struct_tm.h:
-
-/usr/include/c++/12.2.1/bits/alloc_traits.h:
-
-/usr/include/c++/12.2.1/map:
-
-/usr/include/c++/12.2.1/bits/stl_uninitialized.h:
-
-/usr/include/bits/select.h:
-
-/usr/include/c++/12.2.1/bits/new_allocator.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
-
-_deps/sfml-src/include/SFML/Graphics/Transformable.hpp:
-
-/usr/include/locale.h:
-
-/usr/include/c++/12.2.1/bits/stream_iterator.h:
-
-/usr/include/time.h:
-
-_deps/sfml-src/include/SFML/Graphics/Rect.inl:
-
-/usr/include/c++/12.2.1/bits/ranges_util.h:
-
-_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp:
-
-/usr/include/c++/12.2.1/ext/alloc_traits.h:
-
-/usr/include/c++/12.2.1/bits/ranges_base.h:
-
-/usr/include/c++/12.2.1/bits/ranges_algobase.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
-
-/usr/include/c++/12.2.1/bits/ranges_algo.h:
-
-/usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/time64.h:
-
-/usr/include/freetype2/freetype/config/public-macros.h:
-
-_deps/sfml-src/include/SFML/Graphics/Shape.hpp:
-
-/usr/include/alloca.h:
-
-_deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp:
-
-/usr/include/freetype2/freetype/fterrdef.h:
-
-/usr/include/bits/struct_mutex.h:
-
-_deps/sfml-src/src/SFML/Graphics/GLLoader.hpp:
-
-/usr/include/bits/pthreadtypes.h:
-
-/usr/include/freetype2/freetype/ftglyph.h:
-
-/usr/include/c++/12.2.1/tr1/poly_laguerre.tcc:
-
-_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp:
-
-/usr/include/c++/12.2.1/bits/exception_ptr.h:
-
-/usr/include/bits/types/struct_timeval.h:
-
-/usr/include/c++/12.2.1/tr1/hypergeometric.tcc:
-
-/usr/include/bits/types/sigset_t.h:
-
-/usr/include/sys/select.h:
-
-/usr/include/c++/12.2.1/ext/atomicity.h:
-
-/usr/include/bits/byteswap.h:
-
-/usr/include/libintl.h:
-
-/usr/include/bits/endianness.h:
-
-/usr/include/bits/types/clock_t.h:
-
-/usr/include/bits/types/__fpos_t.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/basic_file.h:
-
-/usr/include/bits/uintn-identity.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+/usr/include/c++/13.1.1/bits/node_handle.h:
 
 /usr/include/sys/types.h:
 
@@ -5457,9 +5461,137 @@ _deps/sfml-src/src/SFML/Graphics/View.cpp:
 
 /usr/include/bits/wctype-wchar.h:
 
-/usr/include/c++/12.2.1/bits/stl_relops.h:
+/usr/include/c++/13.1.1/ext/alloc_traits.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/c++/13.1.1/bits/stl_uninitialized.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++allocator.h:
+
+_deps/sfml-src/include/SFML/System/Vector2.inl:
+
+/usr/include/c++/13.1.1/bits/requires_hosted.h:
+
+/usr/include/c++/13.1.1/vector:
+
+_deps/sfml-src/include/SFML/Graphics/PrimitiveType.hpp:
+
+/usr/include/c++/13.1.1/initializer_list:
+
+/usr/include/c++/13.1.1/cctype:
+
+_deps/sfml-src/include/SFML/Graphics/Shader.hpp:
+
+_deps/sfml-src/include/SFML/Graphics/VertexArray.hpp:
+
+_deps/sfml-src/include/SFML/Graphics/Transformable.hpp:
+
+/usr/include/locale.h:
+
+_deps/sfml-src/include/SFML/Graphics/Rect.inl:
+
+/usr/include/c++/13.1.1/bits/stl_iterator.h:
+
+/usr/include/time.h:
+
+/usr/include/c++/13.1.1/bits/max_size_type.h:
+
+/usr/include/c++/13.1.1/bits/memoryfwd.h:
+
+/usr/include/c++/13.1.1/pstl/execution_defs.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/bits/time64.h:
+
+/usr/include/freetype2/freetype/config/public-macros.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h:
+
+_deps/sfml-src/include/SFML/Graphics/Shape.hpp:
+
+/usr/include/c++/13.1.1/ctime:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/alloca.h:
+
+_deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp:
+
+/usr/include/freetype2/freetype/fterrdef.h:
+
+/usr/include/c++/13.1.1/bits/stl_map.h:
+
+/usr/include/bits/struct_mutex.h:
+
+/usr/include/c++/13.1.1/bits/ranges_algo.h:
+
+/usr/include/bits/types/struct_timeval.h:
+
+/usr/include/c++/13.1.1/limits:
+
+/usr/include/bits/types/sigset_t.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/libintl.h:
+
+/usr/include/bits/endianness.h:
+
+/usr/include/c++/13.1.1/bits/ranges_algobase.h:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/usr/include/bits/types/timer_t.h:
+
+_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp:
+
+/usr/include/bits/stdint-intn.h:
+
+/usr/include/bits/types/clockid_t.h:
+
+/usr/include/c++/13.1.1/pstl/pstl_config.h:
+
+/usr/include/c++/13.1.1/bits/ostream_insert.h:
+
+/usr/include/freetype2/freetype/ftbitmap.h:
+
+/usr/include/freetype2/freetype/fttypes.h:
+
+/usr/include/c++/13.1.1/bits/streambuf_iterator.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/types/__locale_t.h:
+
+/usr/include/c++/13.1.1/bits/ranges_base.h:
 
 /usr/include/bits/types/locale_t.h:
+
+/usr/include/bits/floatn-common.h:
+
+_deps/sfml-src/include/SFML/Graphics/Color.hpp:
+
+/usr/include/c++/13.1.1/system_error:
+
+_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp:
+
+/usr/include/bits/floatn.h:
+
+/usr/include/c++/13.1.1/bits/utility.h:
+
+_deps/sfml-src/include/SFML/Graphics/RenderWindow.hpp:
+
+/usr/include/c++/13.1.1/bit:
+
+/usr/include/c++/13.1.1/cassert:
+
+/usr/include/bits/timesize.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/syslimits.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h:
 
 _deps/sfml-src/include/SFML/System/Time.hpp:
 
@@ -5467,261 +5599,277 @@ _deps/sfml-src/include/SFML/System/Time.hpp:
 
 /usr/include/ctype.h:
 
-/usr/include/bits/types/__sigset_t.h:
-
-/usr/include/c++/12.2.1/tr1/modified_bessel_func.tcc:
-
 /usr/include/bits/libc-header-start.h:
 
-/usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h:
+_deps/sfml-src/include/SFML/System/Utf.hpp:
 
-/usr/include/bits/floatn-common.h:
+_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp:
 
-/usr/include/c++/12.2.1/bits/hash_bytes.h:
-
-/usr/include/c++/12.2.1/stdlib.h:
-
-/usr/include/c++/12.2.1/bits/cxxabi_init_exception.h:
-
-/usr/include/c++/12.2.1/iterator:
-
-/usr/include/c++/12.2.1/bits/stl_vector.h:
-
-/usr/include/c++/12.2.1/bits/max_size_type.h:
-
-/usr/include/bits/xopen_lim.h:
-
-/usr/include/c++/12.2.1/bits/std_abs.h:
-
-/usr/include/bits/types/wint_t.h:
-
-/usr/include/c++/12.2.1/pstl/pstl_config.h:
-
-/usr/include/c++/12.2.1/bits/functexcept.h:
-
-/usr/include/c++/12.2.1/exception:
-
-/usr/include/c++/12.2.1/bits/stl_function.h:
-
-/usr/include/c++/12.2.1/bits/locale_classes.h:
-
-/usr/include/stdlib.h:
-
-/usr/include/c++/12.2.1/streambuf:
-
-/usr/include/gnu/stubs.h:
-
-/usr/include/bits/pthreadtypes-arch.h:
-
-/usr/include/bits/mathcalls.h:
-
-/usr/include/c++/12.2.1/bits/ios_base.h:
-
-/usr/include/c++/12.2.1/bits/ptr_traits.h:
-
-/usr/include/bits/long-double.h:
+/usr/include/c++/13.1.1/bits/locale_facets_nonio.h:
 
 /usr/include/sys/cdefs.h:
 
-/usr/include/c++/12.2.1/tr1/beta_function.tcc:
+/usr/include/bits/pthreadtypes-arch.h:
 
 /usr/include/stdc-predef.h:
 
-/usr/include/c++/12.2.1/algorithm:
-
-_deps/sfml-src/src/SFML/Graphics/Image.cpp:
-
-/usr/include/bits/endian.h:
-
-/usr/include/bits/timesize.h:
-
-/usr/include/c++/12.2.1/typeinfo:
-
-_deps/sfml-src/include/SFML/Graphics/Export.hpp:
-
-/usr/include/c++/12.2.1/compare:
-
-/usr/include/c++/12.2.1/bits/stl_algo.h:
-
-/usr/include/bits/cpu-set.h:
-
-/usr/include/c++/12.2.1/debug/debug.h:
-
-_deps/sfml-src/src/SFML/Graphics/Vertex.cpp:
-
-/usr/include/bits/mathcalls-helper-functions.h:
-
-/usr/include/c++/12.2.1/bits/iterator_concepts.h:
-
-_deps/sfml-src/include/SFML/System/Vector2.inl:
+/usr/include/c++/13.1.1/cstddef:
 
 /usr/include/bits/uio_lim.h:
 
 /usr/include/bits/math-vector.h:
 
-_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp:
+/usr/include/c++/13.1.1/bits/ios_base.h:
 
-/usr/include/c++/12.2.1/bits/stl_pair.h:
+/usr/include/bits/byteswap.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h:
+
+/usr/include/c++/13.1.1/bits/iterator_concepts.h:
+
+_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp:
+
+/usr/include/c++/13.1.1/tr1/legendre_function.tcc:
+
+/usr/include/c++/13.1.1/iosfwd:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h:
+
+/usr/include/c++/13.1.1/tr1/special_function_util.h:
+
+/usr/include/c++/13.1.1/new:
+
+/usr/include/c++/13.1.1/bits/uniform_int_dist.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/c++/13.1.1/bits/std_abs.h:
+
+/usr/include/c++/13.1.1/bits/postypes.h:
+
+/usr/include/c++/13.1.1/cstdlib:
+
+/usr/include/stdlib.h:
+
+_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp:
+
+_deps/sfml-src/include/SFML/System/String.hpp:
+
+/usr/include/c++/13.1.1/bits/exception_defines.h:
+
+/usr/include/bits/types/clock_t.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++io.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/types/__fpos_t.h:
+
+/usr/include/c++/13.1.1/string:
+
+/usr/include/c++/13.1.1/cwctype:
+
+/usr/include/c++/13.1.1/bits/stl_algobase.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/mm_malloc.h:
+
+/usr/include/c++/13.1.1/bits/new_allocator.h:
+
+_deps/sfml-src/src/SFML/Graphics/TextureSaver.hpp:
+
+_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp:
 
 _deps/sfml-src/include/SFML/Graphics/Vertex.hpp:
 
-/usr/include/features-time64.h:
+/usr/include/c++/13.1.1/algorithm:
+
+/usr/include/c++/13.1.1/tr1/bessel_function.tcc:
 
 /usr/include/bits/thread-shared-types.h:
 
 _deps/sfml-src/include/SFML/Graphics/ConvexShape.hpp:
 
-/usr/include/c++/12.2.1/ext/numeric_traits.h:
+/usr/include/c++/13.1.1/bits/cxxabi_forced.h:
 
-/usr/include/c++/12.2.1/bits/stl_heap.h:
+/usr/include/bits/types/struct_timespec.h:
+
+/usr/include/c++/13.1.1/bits/exception.h:
 
 _deps/sfml-src/src/SFML/Graphics/BlendMode.cpp:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdarg.h:
 
-/usr/include/bits/stdlib-bsearch.h:
+/usr/include/c++/13.1.1/numbers:
 
-/usr/include/c++/12.2.1/bits/stl_tempbuf.h:
+/usr/include/c++/13.1.1/bits/stl_bvector.h:
+
+/usr/include/c++/13.1.1/cmath:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/c++/13.1.1/bits/ranges_util.h:
+
+/usr/include/bits/typesizes.h:
+
+_deps/sfml-src/src/SFML/Graphics/Sprite.cpp:
+
+/usr/include/c++/13.1.1/bits/nested_exception.h:
+
+/usr/include/c++/13.1.1/bits/exception_ptr.h:
+
+/usr/include/c++/13.1.1/bits/erase_if.h:
+
+_deps/sfml-src/include/SFML/Graphics/Export.hpp:
+
+/usr/include/bits/cpu-set.h:
+
+/usr/include/bits/struct_rwlock.h:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+_deps/sfml-src/include/SFML/Graphics/Drawable.hpp:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+
+/usr/include/freetype2/freetype/config/ftoption.h:
+
+/usr/include/c++/13.1.1/bits/stl_heap.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/c++/13.1.1/bits/concept_check.h:
+
+_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp:
+
+/usr/include/c++/13.1.1/bits/ranges_cmp.h:
+
+_deps/sfml-src/include/SFML/System/Vector2.hpp:
+
+/usr/include/c++/13.1.1/backward/binders.h:
+
+/usr/include/freetype2/freetype/config/ftstdlib.h:
+
+/usr/include/c++/13.1.1/bits/basic_string.tcc:
+
+/usr/include/c++/13.1.1/bits/hash_bytes.h:
+
+/usr/include/c++/13.1.1/bits/allocator.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr.h:
+
+_deps/sfml-src/include/SFML/Graphics/Transform.hpp:
+
+/usr/include/c++/13.1.1/stdlib.h:
+
+_deps/sfml-src/include/SFML/Graphics/Rect.hpp:
+
+_deps/sfml-src/include/SFML/Graphics/Image.hpp:
+
+/usr/include/c++/13.1.1/bits/predefined_ops.h:
+
+/usr/include/bits/stdint-uintn.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
+
+/usr/include/c++/13.1.1/fstream:
+
+/usr/include/c++/13.1.1/bits/basic_ios.h:
+
+/usr/include/c++/13.1.1/bits/cpp_type_traits.h:
+
+_deps/sfml-src/src/SFML/Graphics/GLLoader.hpp:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/c++/13.1.1/ext/type_traits.h:
+
+/usr/include/bits/uintn-identity.h:
+
+/usr/include/c++/13.1.1/tr1/riemann_zeta.tcc:
+
+/usr/include/c++/13.1.1/cerrno:
+
+_deps/sfml-src/include/SFML/Window/GlResource.hpp:
+
+/usr/include/bits/types/time_t.h:
+
+/usr/include/c++/13.1.1/bits/stl_iterator_base_funcs.h:
+
+_deps/sfml-src/include/SFML/Window/VideoMode.hpp:
+
+/usr/include/c++/13.1.1/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/13.1.1/compare:
+
+/usr/include/c++/13.1.1/concepts:
+
+/usr/include/bits/mathcalls-narrow.h:
 
 /usr/include/freetype2/freetype/config/ftconfig.h:
 
 _deps/sfml-src/include/SFML/Config.hpp:
 
-/usr/include/c++/12.2.1/bits/basic_string.tcc:
-
-/usr/include/bits/struct_rwlock.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h:
-
-/usr/include/bits/types/struct_itimerspec.h:
-
-_deps/sfml-src/include/SFML/Graphics/CircleShape.hpp:
-
-/usr/include/c++/12.2.1/ext/type_traits.h:
+/usr/include/c++/13.1.1/type_traits:
 
 _deps/sfml-src/include/SFML/Graphics/RenderStates.hpp:
 
-/usr/include/c++/12.2.1/limits:
+/usr/include/c++/13.1.1/debug/assertions.h:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
 
-_deps/sfml-src/include/SFML/Graphics/Drawable.hpp:
+_deps/sfml-src/src/SFML/Graphics/Image.cpp:
 
-/usr/include/c++/12.2.1/bits/ranges_cmp.h:
+/usr/include/c++/13.1.1/bits/basic_ios.tcc:
 
-/usr/include/bits/posix2_lim.h:
+/usr/include/bits/endian.h:
 
-/usr/include/c++/12.2.1/locale:
+/usr/include/c++/13.1.1/bits/stl_tempbuf.h:
 
-/usr/include/c++/12.2.1/type_traits:
+/usr/include/c++/13.1.1/bits/stl_construct.h:
 
-_deps/sfml-src/include/SFML/System/NonCopyable.hpp:
+/usr/include/c++/13.1.1/debug/debug.h:
 
-/usr/include/bits/setjmp.h:
+/usr/include/pthread.h:
 
-/usr/include/gnu/stubs-64.h:
+/usr/include/c++/13.1.1/bits/refwrap.h:
 
-_deps/sfml-src/include/SFML/System/Vector2.hpp:
+/usr/include/c++/13.1.1/bits/stl_algo.h:
 
-/usr/include/c++/12.2.1/utility:
+/usr/include/c++/13.1.1/bits/stl_function.h:
 
-/usr/include/c++/12.2.1/numbers:
+_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp:
 
-/usr/include/bits/types/time_t.h:
+/usr/include/c++/13.1.1/bits/ptr_traits.h:
 
-/usr/include/c++/12.2.1/bits/algorithmfwd.h:
+/usr/include/bits/iscanonical.h:
 
-_deps/sfml-src/include/SFML/Graphics/Transform.hpp:
+/usr/include/c++/13.1.1/math.h:
 
-/usr/include/c++/12.2.1/bits/allocator.h:
+/usr/include/c++/13.1.1/bits/range_access.h:
 
-/usr/include/c++/12.2.1/bits/stl_algobase.h:
+/usr/include/c++/13.1.1/bits/vector.tcc:
 
-/usr/include/bits/local_lim.h:
+/usr/include/strings.h:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
+/usr/include/c++/13.1.1/ext/numeric_traits.h:
 
-_deps/sfml-src/include/SFML/Graphics/Rect.hpp:
+/usr/include/c++/13.1.1/bits/memory_resource.h:
 
-_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp:
+/usr/include/c++/13.1.1/bits/uses_allocator_args.h:
 
-/usr/include/c++/12.2.1/vector:
+_deps/sfml-src/extlibs/headers/stb_image/stb_image.h:
 
-/usr/include/c++/12.2.1/pstl/execution_defs.h:
+/usr/include/c++/13.1.1/bits/algorithmfwd.h:
 
-/usr/include/bits/typesizes.h:
+/usr/include/c++/13.1.1/tuple:
 
-/usr/include/c++/12.2.1/string:
+_deps/sfml-src/src/SFML/Graphics/Vertex.cpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/mm_malloc.h:
-
-/usr/include/c++/12.2.1/bits/exception_defines.h:
-
-_deps/sfml-src/src/SFML/Graphics/Texture.cpp:
-
-/usr/include/c++/12.2.1/cstdlib:
-
-/usr/include/c++/12.2.1/bits/utility.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h:
-
-/usr/include/c++/12.2.1/bits/cpp_type_traits.h:
-
-_deps/sfml-src/include/SFML/Graphics/Color.hpp:
-
-_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h:
-
-/usr/include/bits/floatn.h:
-
-/usr/include/c++/12.2.1/bits/move.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
-
-_deps/sfml-src/include/SFML/System/Utf.hpp:
-
-/usr/include/c++/12.2.1/concepts:
-
-/usr/include/c++/12.2.1/bits/stl_iterator_base_funcs.h:
-
-/usr/include/c++/12.2.1/bits/predefined_ops.h:
-
-_deps/sfml-src/src/SFML/Graphics/Transform.cpp:
-
-/usr/include/endian.h:
-
-/usr/include/stdint.h:
-
-/usr/include/c++/12.2.1/bits/exception.h:
-
-/usr/include/c++/12.2.1/bits/stl_construct.h:
-
-/usr/include/bits/types/__locale_t.h:
-
-/usr/include/c++/12.2.1/initializer_list:
-
-/usr/include/c++/12.2.1/bits/concept_check.h:
-
-/usr/include/c++/12.2.1/tr1/poly_hermite.tcc:
-
-/usr/include/freetype2/freetype/ftbitmap.h:
-
-/usr/include/freetype2/freetype/fttypes.h:
-
-/usr/include/bits/types.h:
-
-/usr/include/c++/12.2.1/bits/uniform_int_dist.h:
-
-/usr/include/c++/12.2.1/backward/binders.h:
-
-/usr/include/c++/12.2.1/bits/range_access.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h:
-
-/usr/include/c++/12.2.1/bits/vector.tcc:
-
-/usr/include/c++/12.2.1/cmath:
+/usr/include/bits/mathcalls-helper-functions.h:
 
 _deps/sfml-src/src/SFML/Graphics/Color.cpp:
 
@@ -5731,51 +5879,37 @@ _deps/sfml-src/src/SFML/Graphics/Color.cpp:
 
 /usr/include/bits/flt-eval-method.h:
 
-/usr/include/c++/12.2.1/new:
+/usr/include/c++/13.1.1/ostream:
 
-/usr/include/bits/types/FILE.h:
+/usr/include/c++/13.1.1/tr1/poly_laguerre.tcc:
 
 /usr/include/bits/fp-logb.h:
 
+/usr/include/errno.h:
+
+_deps/sfml-src/include/SFML/Graphics/Font.hpp:
+
+/usr/include/c++/13.1.1/bits/locale_facets_nonio.tcc:
+
+/usr/include/c++/13.1.1/bits/functexcept.h:
+
 /usr/include/asm-generic/errno.h:
 
-/usr/include/bits/mathcalls-narrow.h:
+/usr/include/c++/13.1.1/bits/specfun.h:
 
-_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp:
+/usr/include/c++/13.1.1/bits/invoke.h:
 
-/usr/include/c++/12.2.1/bits/string_view.tcc:
+/usr/include/c++/13.1.1/locale:
 
-_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp:
+/usr/include/c++/13.1.1/tr1/gamma.tcc:
 
-/usr/include/c++/12.2.1/bits/invoke.h:
+/usr/include/c++/13.1.1/tr1/beta_function.tcc:
 
-/usr/include/bits/iscanonical.h:
+/usr/include/bits/types/wint_t.h:
 
-_deps/sfml-src/include/SFML/System/String.inl:
+_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp:
 
-/usr/include/c++/12.2.1/bits/specfun.h:
-
-_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp:
-
-_deps/sfml-src/include/SFML/System/String.hpp:
-
-/usr/include/c++/12.2.1/tr1/gamma.tcc:
-
-/usr/include/c++/12.2.1/tr1/special_function_util.h:
-
-_deps/sfml-src/include/SFML/Graphics/Glyph.hpp:
-
-/usr/include/c++/12.2.1/tr1/bessel_function.tcc:
-
-/usr/include/c++/12.2.1/cwchar:
-
-/usr/include/bits/types/timer_t.h:
-
-/usr/include/c++/12.2.1/tr1/ell_integral.tcc:
-
-_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp:
-
-/usr/include/c++/12.2.1/tr1/exp_integral.tcc:
+/usr/include/c++/13.1.1/tr1/ell_integral.tcc:
 
 _deps/sfml-src/include/SFML/Window/Context.hpp:
 
@@ -5785,47 +5919,45 @@ _deps/sfml-src/include/SFML/Window/Context.hpp:
 
 /usr/include/bits/types/__FILE.h:
 
-/usr/include/c++/12.2.1/tr1/legendre_function.tcc:
+/usr/include/c++/13.1.1/tr1/modified_bessel_func.tcc:
 
-/usr/include/sys/single_threaded.h:
+/usr/include/c++/13.1.1/bits/stl_tree.h:
 
-/usr/include/c++/12.2.1/tr1/riemann_zeta.tcc:
+/usr/include/c++/13.1.1/tr1/poly_hermite.tcc:
 
-/usr/include/c++/12.2.1/bits/refwrap.h:
+_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp:
 
 _deps/sfml-src/src/SFML/Graphics/Font.cpp:
 
-/usr/include/c++/12.2.1/bits/istream.tcc:
+_deps/sfml-src/include/SFML/Graphics/Glyph.hpp:
 
-/usr/include/c++/12.2.1/bits/stl_iterator.h:
+_deps/sfml-src/include/SFML/Window/Cursor.hpp:
+
+_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.hpp:
+
+/usr/include/c++/13.1.1/bits/locale_conv.h:
+
+/usr/include/c++/13.1.1/bits/cxxabi_init_exception.h:
 
 _deps/sfml-src/include/SFML/Graphics/Texture.hpp:
+
+/usr/include/c++/13.1.1/bits/alloc_traits.h:
 
 /usr/include/bits/wordsize.h:
 
 /usr/include/stdio.h:
 
-/usr/include/c++/12.2.1/iostream:
+/usr/include/c++/13.1.1/bits/stringfwd.h:
 
-/usr/include/c++/12.2.1/debug/assertions.h:
+/usr/include/c++/13.1.1/bits/uses_allocator.h:
 
-_deps/sfml-src/include/SFML/Graphics/Image.hpp:
+/usr/include/bits/types/FILE.h:
 
-/usr/include/c++/12.2.1/bits/stl_iterator_base_types.h:
-
-/usr/include/linux/errno.h:
-
-/usr/include/bits/types/struct_timespec.h:
-
-/usr/include/c++/12.2.1/bits/stringfwd.h:
-
-/usr/include/c++/12.2.1/bits/char_traits.h:
+/usr/include/c++/13.1.1/bits/char_traits.h:
 
 /usr/include/bits/posix1_lim.h:
 
 /usr/include/wchar.h:
-
-/usr/include/c++/12.2.1/bits/postypes.h:
 
 _deps/sfml-src/src/SFML/Graphics/Shader.cpp:
 
@@ -5833,117 +5965,99 @@ _deps/sfml-src/src/SFML/Graphics/Shader.cpp:
 
 /usr/include/bits/types/__mbstate_t.h:
 
-/usr/include/c++/12.2.1/fstream:
+/usr/include/c++/13.1.1/tr1/hypergeometric.tcc:
 
 /usr/include/bits/stdio_lim.h:
 
+/usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h:
+
 /usr/include/bits/time.h:
 
-/usr/include/c++/12.2.1/cstdint:
+_deps/sfml-src/src/SFML/Graphics/Transform.cpp:
 
-/usr/include/asm/errno.h:
+/usr/include/stdint.h:
 
-/usr/include/bits/stdint-uintn.h:
+/usr/include/c++/13.1.1/map:
 
-/usr/include/c++/12.2.1/bits/localefwd.h:
+/usr/include/endian.h:
 
-/usr/include/c++/12.2.1/clocale:
+/usr/include/c++/13.1.1/bits/localefwd.h:
+
+/usr/include/c++/13.1.1/clocale:
 
 /usr/include/bits/locale.h:
 
-/usr/include/asm-generic/errno-base.h:
+/usr/include/c++/13.1.1/bits/basic_string.h:
 
-_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp:
+/usr/include/c++/13.1.1/bits/locale_facets.tcc:
 
-/usr/include/bits/stdint-intn.h:
+/usr/include/gnu/stubs.h:
 
-/usr/include/bits/types/clockid_t.h:
+/usr/include/c++/13.1.1/string_view:
 
-/usr/include/c++/12.2.1/bits/streambuf_iterator.h:
+/usr/include/c++/13.1.1/bits/string_view.tcc:
 
-_deps/sfml-src/include/SFML/System/Vector3.hpp:
+/usr/include/c++/13.1.1/ext/string_conversions.h:
 
-/usr/include/c++/12.2.1/cctype:
+/usr/include/c++/13.1.1/tr1/exp_integral.tcc:
 
-_deps/sfml-src/src/SFML/Graphics/TextureSaver.hpp:
+/usr/include/bits/pthread_stack_min-dynamic.h:
 
-/usr/include/c++/12.2.1/cstddef:
+/usr/include/c++/13.1.1/ext/aligned_buffer.h:
 
-_deps/sfml-src/include/SFML/Graphics/BlendMode.hpp:
+/usr/include/c++/13.1.1/iterator:
 
-/usr/include/c++/12.2.1/bits/ostream_insert.h:
+/usr/include/c++/13.1.1/cstdio:
 
-/usr/include/c++/12.2.1/bits/stl_tree.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h:
-
-_deps/sfml-src/include/SFML/Graphics/Font.hpp:
-
-/usr/include/errno.h:
-
-/usr/include/c++/12.2.1/bits/cxxabi_forced.h:
-
-/usr/include/setjmp.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
-
-/usr/include/c++/12.2.1/bits/basic_string.h:
-
-/usr/include/bits/stdio.h:
-
-_deps/sfml-src/include/SFML/Graphics/Shader.hpp:
-
-_deps/sfml-src/include/SFML/Graphics/VertexArray.hpp:
-
-/usr/include/c++/12.2.1/string_view:
-
-/usr/include/c++/12.2.1/ext/string_conversions.h:
-
-/usr/include/c++/12.2.1/cstdio:
-
-/usr/include/c++/12.2.1/bits/memoryfwd.h:
+/usr/include/c++/13.1.1/bits/move.h:
 
 /usr/include/bits/types/__fpos64_t.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/xmmintrin.h:
-
-/usr/include/bits/types/struct_FILE.h:
-
 /usr/include/bits/types/cookie_io_functions_t.h:
 
-/usr/include/c++/12.2.1/cerrno:
+/usr/include/c++/13.1.1/bits/stl_pair.h:
+
+/usr/include/bits/stdio.h:
 
 /usr/include/bits/errno.h:
 
 /usr/include/bits/timex.h:
 
-/usr/include/sched.h:
-
-/usr/include/bits/fp-fast.h:
-
-/usr/include/wctype.h:
-
-/usr/include/c++/12.2.1/iosfwd:
-
 /usr/include/bits/types/error_t.h:
 
-/usr/include/c++/12.2.1/bits/stl_bvector.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
 
-/usr/include/c++/12.2.1/bits/charconv.h:
-
-_deps/sfml-src/include/SFML/Window/GlResource.hpp:
+/usr/include/c++/13.1.1/bits/charconv.h:
 
 _deps/sfml-src/include/SFML/Window/Export.hpp:
+
+/usr/include/c++/13.1.1/exception:
+
+_deps/sfml-src/include/SFML/System/NonCopyable.hpp:
+
+/usr/include/bits/setjmp.h:
 
 /usr/include/bits/atomic_wide_counter.h:
 
 _deps/sfml-src/include/SFML/System/Export.hpp:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
+/usr/include/c++/13.1.1/bits/locale_classes.h:
 
-/usr/include/pthread.h:
+/usr/include/c++/13.1.1/ext/atomicity.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/include/wctype.h:
+
+/usr/include/sched.h:
 
 /usr/include/bits/types/struct_sched_param.h:
+
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
+
+/usr/include/c++/13.1.1/cwchar:
+
+/usr/include/bits/types/struct_tm.h:
 
 /usr/include/bits/waitstatus.h:
 
@@ -5951,20 +6065,20 @@ _deps/sfml-src/include/SFML/System/Export.hpp:
 
 /usr/include/bits/types/struct___jmp_buf_tag.h:
 
-/usr/include/bits/pthread_stack_min-dynamic.h:
+/usr/include/sys/single_threaded.h:
 
-/usr/include/c++/12.2.1/bits/locale_classes.tcc:
+/usr/include/c++/13.1.1/bits/locale_facets.h:
 
-_deps/sfml-src/include/SFML/Graphics/View.hpp:
+/usr/include/features-time64.h:
 
-/usr/include/c++/12.2.1/bits/locale_facets.h:
+/usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/error_constants.h:
 
-/usr/include/c++/12.2.1/cwctype:
+/usr/include/c++/13.1.1/bits/locale_classes.tcc:
 
-/usr/include/c++/12.2.1/system_error:
+/usr/include/c++/13.1.1/stdexcept:
 
-/usr/include/c++/12.2.1/stdexcept:
+/usr/include/bits/long-double.h:
 
-/usr/include/c++/12.2.1/bits/nested_exception.h:
+/usr/include/c++/13.1.1/typeinfo:
 
-/usr/include/c++/12.2.1/bits/streambuf.tcc:
+/usr/include/c++/13.1.1/streambuf:

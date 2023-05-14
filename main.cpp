@@ -1,3 +1,4 @@
+
 #include<SFML/Graphics.hpp>
 #include<chrono>
 #include<iostream>
@@ -7,6 +8,7 @@
 #include"Engine/headers/RTG.h"
 #include"Engine/headers/Player.h"
 #include"Engine/headers/Physical_Object.h"
+#include"Engine/headers/filesys.h"
 
 constexpr uint8_t NUM_OF_COLLUMNS{ 32 };
 constexpr uint8_t NUM_OF_ROWS{ 24 };
@@ -26,10 +28,11 @@ int main()
     sf::Vector2f resolution(1920, 1080);
     sf::RenderWindow window(sf::VideoMode(1920, 1080), "Theta Project");
     window.setFramerateLimit(60);
-    sf::View camera(window.getDefaultView());
     theta::Texture_Menager Txt_menager(_dir_path);
+    sf::View camera(window.getDefaultView());
     theta::Chunk_Menager chunk({offset_pos_x,offset_pos_y},NUM_OF_COLLUMNS,NUM_OF_ROWS);
     theta::RTG::Generate_Terrain(chunk, theta::seed{ 32 }, Txt_menager);
+    //theta::FileManager::save_map(std::string(_dir_path)+"test.txt",chunk.get_map());
     chunk.set_Active_Chunks(camera, resolution);
     theta::Player player(sf::Vector2f{ 0.f,0.f }, camera, Txt_menager); 
     theta::Physic_Engine Physical_engine(chunk, theta::Physical_Object(player));
@@ -46,24 +49,37 @@ int main()
             if (event.type == sf::Event::MouseButtonPressed) {
                 auto mouse_pos = window.mapPixelToCoords({ event.mouseButton.x, event.mouseButton.y });
                 if (player.is_Range(mouse_pos)) {
-                    if (event.mouseButton.button == sf::Mouse::Button::Left) chunk.destroy_block_at(mouse_pos);
+		  if (event.mouseButton.button == sf::Mouse::Button::Left) chunk.destroy_block_at(mouse_pos,true);
                     else {
                         mouse_pos.x = floorf(mouse_pos.x) - static_cast<int>(mouse_pos.x) % 32;
                         mouse_pos.y = floorf(mouse_pos.y) - static_cast<int>(mouse_pos.y) % 32;
-                        //chunk.insert(std::make_shared<theta::Block>(mouse_pos, Txt_menager,theta::block_type::Dirt));
-			theta::Tree::generate(mouse_pos,Txt_menager,chunk);
+			auto tmp = player.get_item(false);
+			if(tmp != theta::block_type::None)
+			  if(chunk.insert(std::make_shared<theta::Block>(mouse_pos, Txt_menager,tmp)))
+			    player.get_item();
+			//theta::Tree::generate(mouse_pos,Txt_menager,chunk);
                     }
                 }
             }
-            if (event.type == sf::Event::KeyPressed && i_sb < 3) {
+            if (event.type == sf::Event::KeyPressed) {
 	      if (event.key.code == sf::Keyboard::A
-		  && player.get_collision_points(theta::Side_of_Collision::Left).x > border_l)
+		  && player.get_collision_points(theta::Side_of_Collision::Left).x > border_l
+		  && i_sb < 3)
 		{ side_buffor[i_sb] = theta::Side_of_Collision::Left; ++i_sb;}
 	      else if (event.key.code == sf::Keyboard::D
-		       && player.get_collision_points(theta::Side_of_Collision::Right).x < border_r )
+		       && player.get_collision_points(theta::Side_of_Collision::Right).x < border_r 
+		       && i_sb < 3)
 		{ side_buffor[i_sb] = theta::Side_of_Collision::Right; ++i_sb;}
-	      else if (event.key.code == sf::Keyboard::W){ side_buffor[i_sb] = theta::Side_of_Collision::Top; ++i_sb;}
-            }
+	      else if (event.key.code == sf::Keyboard::W
+		       && i_sb < 3)
+		{ side_buffor[i_sb] = theta::Side_of_Collision::Top; ++i_sb;}
+	      else if(event.key.code >= sf::Keyboard::Num1 && event.key.code <= sf::Keyboard::Num5)
+		player.choose_inv_slot(static_cast<size_t>(event.key.code - sf::Keyboard::Num1));
+	      else if(event.key.code == sf::Keyboard::L){
+		theta::FileManager::load_map(std::string(_dir_path)+"test.txt",chunk,Txt_menager);
+	      }
+	    }
+	    
   
         }
 
@@ -77,7 +93,7 @@ int main()
 	  for(const auto& it : x->Draw_Chunk())
 	  window.draw(*it);
         }
-
+	player.update_inv_slot(Txt_menager);
 	window.draw(player);
         window.display();
         auto end = std::chrono::high_resolution_clock::now();
