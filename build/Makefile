@@ -239,6 +239,78 @@ sfml-audio/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build.make _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build
 .PHONY : sfml-audio/fast
 
+Engine/Chunk.o: Engine/Chunk.cpp.o
+.PHONY : Engine/Chunk.o
+
+# target to build an object file
+Engine/Chunk.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o
+.PHONY : Engine/Chunk.cpp.o
+
+Engine/Chunk.i: Engine/Chunk.cpp.i
+.PHONY : Engine/Chunk.i
+
+# target to preprocess a source file
+Engine/Chunk.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.i
+.PHONY : Engine/Chunk.cpp.i
+
+Engine/Chunk.s: Engine/Chunk.cpp.s
+.PHONY : Engine/Chunk.s
+
+# target to generate assembly for a file
+Engine/Chunk.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.s
+.PHONY : Engine/Chunk.cpp.s
+
+Engine/PhysicalObject.o: Engine/PhysicalObject.cpp.o
+.PHONY : Engine/PhysicalObject.o
+
+# target to build an object file
+Engine/PhysicalObject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o
+.PHONY : Engine/PhysicalObject.cpp.o
+
+Engine/PhysicalObject.i: Engine/PhysicalObject.cpp.i
+.PHONY : Engine/PhysicalObject.i
+
+# target to preprocess a source file
+Engine/PhysicalObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.i
+.PHONY : Engine/PhysicalObject.cpp.i
+
+Engine/PhysicalObject.s: Engine/PhysicalObject.cpp.s
+.PHONY : Engine/PhysicalObject.s
+
+# target to generate assembly for a file
+Engine/PhysicalObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.s
+.PHONY : Engine/PhysicalObject.cpp.s
+
+Engine/RTG.o: Engine/RTG.cpp.o
+.PHONY : Engine/RTG.o
+
+# target to build an object file
+Engine/RTG.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o
+.PHONY : Engine/RTG.cpp.o
+
+Engine/RTG.i: Engine/RTG.cpp.i
+.PHONY : Engine/RTG.i
+
+# target to preprocess a source file
+Engine/RTG.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.i
+.PHONY : Engine/RTG.cpp.i
+
+Engine/RTG.s: Engine/RTG.cpp.s
+.PHONY : Engine/RTG.s
+
+# target to generate assembly for a file
+Engine/RTG.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.s
+.PHONY : Engine/RTG.cpp.s
+
 Engine/TextureMenager.o: Engine/TextureMenager.cpp.o
 .PHONY : Engine/TextureMenager.o
 
@@ -262,6 +334,30 @@ Engine/TextureMenager.s: Engine/TextureMenager.cpp.s
 Engine/TextureMenager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.s
 .PHONY : Engine/TextureMenager.cpp.s
+
+Engine/filesys.o: Engine/filesys.cpp.o
+.PHONY : Engine/filesys.o
+
+# target to build an object file
+Engine/filesys.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o
+.PHONY : Engine/filesys.cpp.o
+
+Engine/filesys.i: Engine/filesys.cpp.i
+.PHONY : Engine/filesys.i
+
+# target to preprocess a source file
+Engine/filesys.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.i
+.PHONY : Engine/filesys.cpp.i
+
+Engine/filesys.s: Engine/filesys.cpp.s
+.PHONY : Engine/filesys.s
+
+# target to generate assembly for a file
+Engine/filesys.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ThetaLinux.dir/build.make CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.s
+.PHONY : Engine/filesys.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -305,9 +401,21 @@ help:
 	@echo "... sfml-network"
 	@echo "... sfml-system"
 	@echo "... sfml-window"
+	@echo "... Engine/Chunk.o"
+	@echo "... Engine/Chunk.i"
+	@echo "... Engine/Chunk.s"
+	@echo "... Engine/PhysicalObject.o"
+	@echo "... Engine/PhysicalObject.i"
+	@echo "... Engine/PhysicalObject.s"
+	@echo "... Engine/RTG.o"
+	@echo "... Engine/RTG.i"
+	@echo "... Engine/RTG.s"
 	@echo "... Engine/TextureMenager.o"
 	@echo "... Engine/TextureMenager.i"
 	@echo "... Engine/TextureMenager.s"
+	@echo "... Engine/filesys.o"
+	@echo "... Engine/filesys.i"
+	@echo "... Engine/filesys.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

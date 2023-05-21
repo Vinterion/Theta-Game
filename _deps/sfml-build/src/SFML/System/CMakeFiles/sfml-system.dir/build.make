@@ -315,36 +315,30 @@ sfml__system_OBJECTS = \
 # External object files for target sfml-system
 sfml__system_EXTERNAL_OBJECTS =
 
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ClockImpl.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/MutexImpl.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadImpl.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadLocalImpl.cpp.o
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/build.make
-_deps/sfml-build/lib/libsfml-system.so.2.5.1: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vint/projects/theta-linux/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX shared library ../../../lib/libsfml-system.so"
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ClockImpl.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/MutexImpl.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadImpl.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadLocalImpl.cpp.o
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/build.make
+_deps/sfml-build/lib/libsfml-system-s.a: _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vint/projects/theta-linux/src/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX static library ../../../lib/libsfml-system-s.a"
+	cd /home/vint/projects/theta-linux/src/_deps/sfml-build/src/SFML/System && $(CMAKE_COMMAND) -P CMakeFiles/sfml-system.dir/cmake_clean_target.cmake
 	cd /home/vint/projects/theta-linux/src/_deps/sfml-build/src/SFML/System && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sfml-system.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/vint/projects/theta-linux/src/_deps/sfml-build/src/SFML/System && $(CMAKE_COMMAND) -E cmake_symlink_library ../../../lib/libsfml-system.so.2.5.1 ../../../lib/libsfml-system.so.2.5 ../../../lib/libsfml-system.so
-
-_deps/sfml-build/lib/libsfml-system.so.2.5: _deps/sfml-build/lib/libsfml-system.so.2.5.1
-	@$(CMAKE_COMMAND) -E touch_nocreate _deps/sfml-build/lib/libsfml-system.so.2.5
-
-_deps/sfml-build/lib/libsfml-system.so: _deps/sfml-build/lib/libsfml-system.so.2.5.1
-	@$(CMAKE_COMMAND) -E touch_nocreate _deps/sfml-build/lib/libsfml-system.so
 
 # Rule to build all files generated by this target.
-_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/build: _deps/sfml-build/lib/libsfml-system.so
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/build: _deps/sfml-build/lib/libsfml-system-s.a
 .PHONY : _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/build
 
 _deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/clean:

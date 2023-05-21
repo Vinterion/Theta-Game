@@ -4,6 +4,7 @@
 #include"Texture_Menager.h"
 #include"Block.h"
 #include<array>
+#include<math.h>
 
 namespace theta {
 
@@ -71,7 +72,7 @@ namespace theta {
       num_items.setFont(Txt_menager.get_font());
       num_items.setCharacterSize(8);
       num_items.setFillColor(sf::Color::White);
-      num_items.setPosition(out_side_inv.getPosition() + sf::Vector2f{20.f,32.f});
+      num_items.setPosition(out_side_inv.getPosition() + sf::Vector2f{22.f,34.f});
     }
     [[nodiscard]]const sf::Vector2f get_collision_points(const theta::Side_of_Collision side) {
       return __collision_points[static_cast<size_t>(side)];
@@ -123,27 +124,21 @@ namespace theta {
       if(previous_i != inv_pos || previous_type != inv[inv_pos].first || previous_num != inv[inv_pos].second){
 	previous_i = inv_pos;
 	auto [type,num] = inv[inv_pos];
-	previous_type = type;
-	previous_num = num;
 	if(type == block_type::None) {
 	  inv_txt_slot = nullptr;
 	  in_side_inv.setFillColor(sf::Color::Transparent);
 	  num_items.setString("");
 	}
 	else {
-	  inv_txt_slot = txt_menager.get_Texture(static_cast<Texture_Id>(type));
-	  in_side_inv.setFillColor(sf::Color::White);
-	  num_items.setString(std::to_string(num));
+	  if(previous_type != type) inv_txt_slot = txt_menager.get_Texture(static_cast<Texture_Id>(type));
+	  if(previous_type == block_type::None) in_side_inv.setFillColor(sf::Color::White);
+	  if(previous_num != num) num_items.setString(std::to_string(num));
 	}
-      in_side_inv.setTexture(inv_txt_slot.get());
+	previous_type = type;
+	previous_num = num;
+	in_side_inv.setTexture(inv_txt_slot.get());
       }
     }
-    // void destroy_block(const sf::Vector2f& pos,Chunk_menager& chunk){
-	    
-    // }
-    // void insert_block(const sf::Vector2f& pos,Chunk_menager& chunk){
-    
-    // }
     void move(const sf::Vector2f& move_vec) {
       for (auto& vecs : __vectors) vecs.position += move_vec;
       for (auto& cpoints : __collision_points) cpoints += move_vec;

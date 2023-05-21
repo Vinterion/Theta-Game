@@ -69,24 +69,52 @@ include CMakeFiles/ThetaLinux.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ThetaLinux.dir/flags.make
 
-CMakeFiles/ThetaLinux.dir/main.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
-CMakeFiles/ThetaLinux.dir/main.cpp.o: /home/vint/projects/theta-linux/src/main.cpp
-CMakeFiles/ThetaLinux.dir/main.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ThetaLinux.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/main.cpp.o -MF CMakeFiles/ThetaLinux.dir/main.cpp.o.d -o CMakeFiles/ThetaLinux.dir/main.cpp.o -c /home/vint/projects/theta-linux/src/main.cpp
+CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
+CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o: /home/vint/projects/theta-linux/src/Engine/Chunk.cpp
+CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o -MF CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o.d -o CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o -c /home/vint/projects/theta-linux/src/Engine/Chunk.cpp
 
-CMakeFiles/ThetaLinux.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/main.cpp > CMakeFiles/ThetaLinux.dir/main.cpp.i
+CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/Engine/Chunk.cpp > CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.i
 
-CMakeFiles/ThetaLinux.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/main.cpp -o CMakeFiles/ThetaLinux.dir/main.cpp.s
+CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/Engine/Chunk.cpp -o CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.s
+
+CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
+CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o: /home/vint/projects/theta-linux/src/Engine/PhysicalObject.cpp
+CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o -MF CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o.d -o CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o -c /home/vint/projects/theta-linux/src/Engine/PhysicalObject.cpp
+
+CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/Engine/PhysicalObject.cpp > CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.i
+
+CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/Engine/PhysicalObject.cpp -o CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.s
+
+CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
+CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o: /home/vint/projects/theta-linux/src/Engine/RTG.cpp
+CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o -MF CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o.d -o CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o -c /home/vint/projects/theta-linux/src/Engine/RTG.cpp
+
+CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/Engine/RTG.cpp > CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.i
+
+CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/Engine/RTG.cpp -o CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.s
 
 CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
 CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o: /home/vint/projects/theta-linux/src/Engine/TextureMenager.cpp
 CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o -MF CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o.d -o CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o -c /home/vint/projects/theta-linux/src/Engine/TextureMenager.cpp
 
 CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.i: cmake_force
@@ -97,22 +125,58 @@ CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/Engine/TextureMenager.cpp -o CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.s
 
+CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
+CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o: /home/vint/projects/theta-linux/src/Engine/filesys.cpp
+CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o -MF CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o.d -o CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o -c /home/vint/projects/theta-linux/src/Engine/filesys.cpp
+
+CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/Engine/filesys.cpp > CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.i
+
+CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/Engine/filesys.cpp -o CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.s
+
+CMakeFiles/ThetaLinux.dir/main.cpp.o: CMakeFiles/ThetaLinux.dir/flags.make
+CMakeFiles/ThetaLinux.dir/main.cpp.o: /home/vint/projects/theta-linux/src/main.cpp
+CMakeFiles/ThetaLinux.dir/main.cpp.o: CMakeFiles/ThetaLinux.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ThetaLinux.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ThetaLinux.dir/main.cpp.o -MF CMakeFiles/ThetaLinux.dir/main.cpp.o.d -o CMakeFiles/ThetaLinux.dir/main.cpp.o -c /home/vint/projects/theta-linux/src/main.cpp
+
+CMakeFiles/ThetaLinux.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ThetaLinux.dir/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vint/projects/theta-linux/src/main.cpp > CMakeFiles/ThetaLinux.dir/main.cpp.i
+
+CMakeFiles/ThetaLinux.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ThetaLinux.dir/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vint/projects/theta-linux/src/main.cpp -o CMakeFiles/ThetaLinux.dir/main.cpp.s
+
 # Object files for target ThetaLinux
 ThetaLinux_OBJECTS = \
-"CMakeFiles/ThetaLinux.dir/main.cpp.o" \
-"CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o"
+"CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o" \
+"CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o" \
+"CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o" \
+"CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o" \
+"CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o" \
+"CMakeFiles/ThetaLinux.dir/main.cpp.o"
 
 # External object files for target ThetaLinux
 ThetaLinux_EXTERNAL_OBJECTS =
 
-ThetaLinux: CMakeFiles/ThetaLinux.dir/main.cpp.o
+ThetaLinux: CMakeFiles/ThetaLinux.dir/Engine/Chunk.cpp.o
+ThetaLinux: CMakeFiles/ThetaLinux.dir/Engine/PhysicalObject.cpp.o
+ThetaLinux: CMakeFiles/ThetaLinux.dir/Engine/RTG.cpp.o
 ThetaLinux: CMakeFiles/ThetaLinux.dir/Engine/TextureMenager.cpp.o
+ThetaLinux: CMakeFiles/ThetaLinux.dir/Engine/filesys.cpp.o
+ThetaLinux: CMakeFiles/ThetaLinux.dir/main.cpp.o
 ThetaLinux: CMakeFiles/ThetaLinux.dir/build.make
 ThetaLinux: _deps/sfml-build/lib/libsfml-graphics.so.2.5.1
 ThetaLinux: _deps/sfml-build/lib/libsfml-window.so.2.5.1
 ThetaLinux: _deps/sfml-build/lib/libsfml-system.so.2.5.1
 ThetaLinux: CMakeFiles/ThetaLinux.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ThetaLinux"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vint/projects/theta-linux/src/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ThetaLinux"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ThetaLinux.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -1,5 +1,6 @@
 CMakeFiles/ThetaLinux.dir/main.cpp.o: \
  /home/vint/projects/theta-linux/src/main.cpp /usr/include/stdc-predef.h \
+ /home/vint/projects/theta-linux/src/app.h \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/Graphics.hpp \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/Window.hpp \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/System.hpp \
@@ -245,32 +246,20 @@ CMakeFiles/ThetaLinux.dir/main.cpp.o: \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
  /home/vint/projects/theta-linux/src/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
- /usr/include/c++/13.1.1/chrono /usr/include/c++/13.1.1/bits/chrono.h \
- /usr/include/c++/13.1.1/ratio /usr/include/c++/13.1.1/cstdint \
- /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
- /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
- /usr/include/c++/13.1.1/limits \
- /usr/include/c++/13.1.1/bits/parse_numbers.h \
- /usr/include/c++/13.1.1/sstream /usr/include/c++/13.1.1/istream \
+ /usr/include/c++/13.1.1/iostream /usr/include/c++/13.1.1/istream \
  /usr/include/c++/13.1.1/bits/istream.tcc \
- /usr/include/c++/13.1.1/bits/sstream.tcc \
- /usr/include/c++/13.1.1/bits/shared_ptr.h \
- /usr/include/c++/13.1.1/bits/shared_ptr_base.h \
- /usr/include/c++/13.1.1/bits/allocated_ptr.h \
- /usr/include/c++/13.1.1/bits/unique_ptr.h \
- /usr/include/c++/13.1.1/ext/concurrence.h \
- /usr/include/c++/13.1.1/bits/align.h \
- /usr/include/c++/13.1.1/bits/chrono_io.h /usr/include/c++/13.1.1/iomanip \
- /usr/include/c++/13.1.1/bits/quoted_string.h \
- /usr/include/c++/13.1.1/format /usr/include/c++/13.1.1/array \
- /usr/include/c++/13.1.1/charconv /usr/include/c++/13.1.1/optional \
- /usr/include/c++/13.1.1/bits/enable_special_members.h \
- /usr/include/c++/13.1.1/span /usr/include/c++/13.1.1/variant \
- /usr/include/c++/13.1.1/iostream \
  /home/vint/projects/theta-linux/src/Engine/headers/Block.h \
  /home/vint/projects/theta-linux/src/Engine/headers/Texture_Menager.h \
  /usr/include/c++/13.1.1/memory \
  /usr/include/c++/13.1.1/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/13.1.1/bits/align.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/c++/13.1.1/bits/unique_ptr.h \
+ /usr/include/c++/13.1.1/bits/shared_ptr.h \
+ /usr/include/c++/13.1.1/bits/shared_ptr_base.h \
+ /usr/include/c++/13.1.1/bits/allocated_ptr.h \
+ /usr/include/c++/13.1.1/ext/concurrence.h \
  /usr/include/c++/13.1.1/bits/shared_ptr_atomic.h \
  /usr/include/c++/13.1.1/bits/atomic_base.h \
  /usr/include/c++/13.1.1/bits/atomic_lockfree_defines.h \
@@ -300,18 +289,19 @@ CMakeFiles/ThetaLinux.dir/main.cpp.o: \
  /usr/include/c++/13.1.1/bits/unordered_map.h \
  /usr/include/c++/13.1.1/bits/hashtable.h \
  /usr/include/c++/13.1.1/bits/hashtable_policy.h \
+ /usr/include/c++/13.1.1/bits/enable_special_members.h \
  /home/vint/projects/theta-linux/src/Engine/headers/RTG.h \
  /home/vint/projects/theta-linux/src/Engine/headers/Chunk.h \
- /home/vint/projects/theta-linux/src/Engine/headers/Structure.h \
- /usr/include/c++/13.1.1/random /usr/include/c++/13.1.1/cmath \
- /usr/include/math.h /usr/include/bits/math-vector.h \
- /usr/include/bits/libm-simd-decl-stubs.h \
+ /home/vint/projects/theta-linux/src/Engine/headers/Player.h \
+ /usr/include/c++/13.1.1/array /usr/include/c++/13.1.1/math.h \
+ /usr/include/c++/13.1.1/cmath /usr/include/math.h \
+ /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
  /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
  /usr/include/bits/fp-fast.h \
  /usr/include/bits/mathcalls-helper-functions.h \
  /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
  /usr/include/bits/iscanonical.h /usr/include/c++/13.1.1/bits/specfun.h \
- /usr/include/c++/13.1.1/tr1/gamma.tcc \
+ /usr/include/c++/13.1.1/limits /usr/include/c++/13.1.1/tr1/gamma.tcc \
  /usr/include/c++/13.1.1/tr1/special_function_util.h \
  /usr/include/c++/13.1.1/tr1/bessel_function.tcc \
  /usr/include/c++/13.1.1/tr1/beta_function.tcc \
@@ -323,16 +313,7 @@ CMakeFiles/ThetaLinux.dir/main.cpp.o: \
  /usr/include/c++/13.1.1/tr1/poly_hermite.tcc \
  /usr/include/c++/13.1.1/tr1/poly_laguerre.tcc \
  /usr/include/c++/13.1.1/tr1/riemann_zeta.tcc \
- /usr/include/c++/13.1.1/bits/random.h \
- /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/opt_random.h \
- /usr/include/c++/13.1.1/bits/random.tcc /usr/include/c++/13.1.1/numeric \
- /usr/include/c++/13.1.1/bits/stl_numeric.h \
- /usr/include/c++/13.1.1/pstl/glue_numeric_defs.h \
- /home/vint/projects/theta-linux/src/Engine/headers/Player.h \
  /home/vint/projects/theta-linux/src/Engine/headers/Physical_Object.h \
  /home/vint/projects/theta-linux/src/Engine/headers/Player.h \
- /home/vint/projects/theta-linux/src/Engine/headers/filesys.h \
- /usr/include/c++/13.1.1/fstream \
- /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
- /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
- /usr/include/c++/13.1.1/bits/fstream.tcc
+ /usr/include/c++/13.1.1/span \
+ /home/vint/projects/theta-linux/src/Engine/headers/filesys.h
